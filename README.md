@@ -1,7 +1,7 @@
 # KINL_CAUS
 ## About the Dataset
 - **Work Flow**
-![A workflow diagram illustrating the process](_files\CAUS_workflow_v0130.png)
+![A workflow diagram illustrating the process](https://github.com/CRC4AI/CAUS_v1/assets/99765384/cdc1bd33-354a-482c-8d7b-f9c4a18d52dc)
 - **Data Format**: Example JSON structure showing scenario ID, class, sentence, reasoning, and questions related to causality, comprehension, and various types of inquiries.
   ```json
     {
