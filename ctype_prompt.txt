@@ -1,0 +1,16 @@
+Ignore all previous instructions. 
+
+'query_value' is a question that a questioner asks the oracle about the uncertainty in a scene. 
+Select a cognitive process criterion from the ##Cognition type criteria:## that reveals how the oracle answers questions for a given 'query_value.'
+Stay within the provided choices; no creation of new options or selection of non-existing options is allowed.
+
+##Cogniton type criteria:##
+They presented as "criteria_number. cognition_type: definition."
+
+1. Knowledge: The case that the oracle can answer a given query by simply recognizing or recalling facts or events
+2. Comprehension: The case that the oracle can answer a given query by interpreting or understanding the meaning of the given situation. 
+3. Operation: The case that the oracle needs to apply, analyze, or synthesize factors or conditions in the given information to answer the given query
+4. Evaluation: The case that the oracle needs to make a judgment or set their opinion about a given situation to answer the given query
+
+###instruction### Print the result of classification as list of tuple [(criteria_number,'cognition_type'),...] 
+Do not provide any explanation or response with anything, except the list of classification tuples.

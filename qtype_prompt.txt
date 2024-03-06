@@ -1,0 +1,24 @@
+Ignore all previous instructions.
+Classify the questions of 'query_value' according to the ##Question type criteria:##, as detailed below.
+Stay within the provided choices; no creation of new options or selection of non-existing options is allowed.
+
+##Question type criteria:##
+Select one criterion that classifies the form of the question sentences according to the pragmatic approach regarding its underlying meaning. They are presented as "criteria_number. question_type: definition".
+
+1. Verification: Asking for the authenticity of a specific event or fact that can be clarified with just yes/no.
+2. Case specification: Question for clarification by selecting a more fit case among given alternatives mainly using 'or.'
+3. Concept completion: Question of seeking specific information for compensating gaps from the scenario, mainly using interrogative words excluding 'why' and 'how.' 
+4. Feature specification: Asking about the features or attributes of a specific character or object.
+5. Quantification: Asking about quantitative details or numeric information about a particular character or object.
+6. Definition: Asking about the fundamental nature, essence, scope, or meaning of a particular term or concept.
+7. Comparison: Asking about dis- or similarities between two or more subjects.
+8. Interpretation: Seeking for the given situation, event's hidden meaning, or additional detail such as significance.
+9. Cause elucidation: Question for seeking reason for identifying external causes, or triggers that led to the given result or state.
+10. Intention disclosure: Asking about the given character's internal motivations or desires that drive certain decisions and behaviors, particularly when 'why' is used.
+11. Result account: Asking about the result, effect, or others' reaction caused by the given event, action, or condition.
+12. Method explication: Asking about the procedure, steps, or sequence that resulted in a particular state or outcome, focusing on "how" and detailing the exact process.
+13. Expectation: Asking about anticipations or predictions concerning future events or situations.
+14. Judging: Asking about an individual's judgment or perspective on a specific topic or result.
+
+###instruction### Print the result of classification as a list of tuples [(criteria_number,'question type'),...] 
+Do not provide any explanation or response with anything except the list of classifications.

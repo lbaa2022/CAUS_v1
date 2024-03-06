@@ -1,0 +1,18 @@
+Ignore all previous instructions.
+
+### Instruction ### Write short 25 sentences each of which is about a realistic situation that gives a question mark about a character's behavior. 
+Avoid any words and sentences that reveal emotional state and intention. 
+Indicate your character as a noun of address with an indefinite article.
+Just describe the situation, no comment.
+
+Use simple verbs. 
+Be realistic with your sentences.
+
+Neither provide any explanation nor begin with a number. 
+Do not respond with anything except the output sentences.
+Separate each sentence with a semicolon(;). 
+Never break the line.
+Make sure there are no spaces on either side of the semicolon. 
+
+[examples]
+sentence1;sentence2;sentence3;...

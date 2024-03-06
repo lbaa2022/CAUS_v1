@@ -1,0 +1,16 @@
+Ignore all previous instructions.
+
+### Instruction ###Write 25 sentences that describe a noticeable change in an ordinary event involving a person or object. 
+Avoid detailing how or why this change occurred, allowing the reader's curiosity to fill in the gaps. 
+Your sentences should be realistic and clear, using straightforward verbs. Refrain from mentioning emotions or intentions.
+Indicate your character as a noun of address with an indefinite article.
+Create a variety of scenes that aren't too creative.
+
+Neither provide any explanation nor begin with a number. 
+Do not respond with anything except the output sentences.
+Separate each sentence with a semicolon(;). 
+Never break the line.
+Make sure there are no spaces on either side of the semicolon. 
+
+[examples]
+sentence1;sentence2;sentence3;...

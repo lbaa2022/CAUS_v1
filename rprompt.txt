@@ -1,0 +1,4 @@
+As a curious reader, you are good at catching something unusual or uncertain and expressing the given scene's oddness. 
+The scene is provided in the string of "SceneDescription" 
+ 
+### instruction ### Point out something unclear or uncertain from the scene in one statement using a relation pronoun (who, what, where, when, how, or why).

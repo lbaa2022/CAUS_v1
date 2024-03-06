@@ -1,0 +1,16 @@
+Ignore all previous instructions.
+
+You are a curious reader who can't help but wonder.
+Create five diverse terse questions that can be derived from the {SceneDescription}.
+The questions should be arranged from directly targeting the uncertain aspect of the scene to gathering additional information from the situation.
+Look at it from different perspectives.
+Avoid questions asking for the same reason.
+
+Neither providing any explanation nor begin with a number.
+Do not respond with anything except the three questions.
+Separate each question with a semicolon(;).
+Never break the line.
+Make sure there are no spaces on either side of the semicolon.
+
+[example]
+quesion_sentence01;question_sentence02;question_sentence03;question_sentence04;question_sentence05

@@ -1,0 +1,1001 @@
+scn_id,scn_sentence,scn_cls,model,temp
+01E8SK,A woman talks to her plants as if they can hear her,1,gpt-3.5-turbo,1
+01OC6H,A woman avoids making eye contact and fidgets with her hands while talking,1,gpt-3.5-turbo,1
+027ZBE,A neighbor paints their front door a different color every month,1,gpt-3.5-turbo,1
+03A9EO,"A man consistently double-checks that all the doors and windows in his house are locked, multiple times a day",1,gpt-3.5-turbo,1
+03SBU2,A hairdryer is found inside a kitchen pot,0,gpt-4-0613,0.7
+05MQC6,"A woman, once slow at typing, now hammers at the keyboard with remarkable speed",2,gpt-4-0613,1
+079ETM,"An alarm clock, once set religiously every night, now collects dust unused",2,gpt-4-0613,1
+07DFJ6,A pair of scissors is lying on the balcony railing,0,gpt-4-0613,0.7
+08AS9K,A habitual early riser is seen sleeping in till noon,2,gpt-4-0613,1
+08OL2H,"The vintage car, once a symbol of luxury, was covered in rust",2,gpt-4-0613,1
+08X4EY,A dog leash is hanging on a clothes hanger,0,gpt-4-0613,0.7
+09B8NJ,"A television remote is on the kitchen counter, next to the coffee machine",0,gpt-4-0613,0.7
+0B6J3P,"A soccer ball is in the library, sitting quietly on a bookshelf",0,gpt-4-0613,0.7
+0C2F5Q,"A teenager insists on wearing gloves at all times, even in warm weather",1,gpt-3.5-turbo,1
+0G1V9J,A pillow is in the oven,0,gpt-4-0613,0.7
+0GDK82,A hammer is lying on the pillow of the bed,0,gpt-4-0613,0.7
+0I26RY,An employee takes long lunch breaks but finishes all their work on time,1,gpt-3.5-turbo,1
+0J45IK,"A roommate always leaves the bathroom light on, even when they are not inside",1,gpt-3.5-turbo,1
+0L62UT,A coworker always carries a pocket watch and checks it several times an hour,1,gpt-3.5-turbo,1
+0L6GR8,"A car, always glistening clean, now wears a dull, dusty coat",2,gpt-4-0613,1
+0L6Y9V,A man consistently loses his keys but never bothers to find a better place to keep them,1,gpt-3.5-turbo,1
+0NS7Q5,A pair of glasses is on the flower pot,0,gpt-4-0613,0.7
+0RG51B,A man parks his car far away from any other vehicles in the parking lot,1,gpt-3.5-turbo,1
+0T1EG6,"A coworker eats the same sandwich for lunch every day, never trying anything new",1,gpt-3.5-turbo,1
+0UM67E,The noisy street was eerily quiet,2,gpt-4-0613,1
+0V68RD,"A man constantly taps his foot or clicks his pen, even when there is no apparent reason to be restless",1,gpt-3.5-turbo,1
+0W46YU,"The teacher, known for her strictness, laughed heartily",2,gpt-4-0613,1
+0WX2G1,"A teenager always wears sunglasses indoors, even when there is minimal light",1,gpt-3.5-turbo,1
+0Y9A3G,"A wallet, once fat with money, is now sadly thin",2,gpt-4-0613,1
+126YSH,A pillow is lying on the kitchen table,0,gpt-4-0613,0.7
+12A4PX,A soccer ball is placed on a bookshelf,0,gpt-4-0613,0.7
+13WYS9,A white picket fence had turned a faded grey,2,gpt-4-0613,1
+18QW4T,"The garden, once overgrown, is now neatly manicured",2,gpt-4-0613,1
+190SDX,"A bottle of red wine, kept for years, is now opened and half-empty.",2,gpt-4-0613,1
+19KVF6,The television remote is found submerged in the fish tank,0,gpt-4-0613,0.7
+1A8OP4,A subway train that faithfully arrived on time every day was late,2,gpt-4-0613,1
+1AW97N,"Once barren, the garden now proliferated with various flora",2,gpt-4-0613,1
+1BE24V,"An old pair of sneakers, once bright white, are now stained brown and tattered",2,gpt-4-0613,1
+1EN58V,"A favorite book, once handled with care, now rests worn and creased from heavy use",2,gpt-4-0613,1
+1F4G5C,"A woman walks into a cafe, orders a coffee, but immediately leaves without taking a sip",1,gpt-3.5-turbo,1
+1GI7M0,A frying pan is in the mailbox,0,gpt-4-0613,0.7
+1H86EN,"A laptop, typically loud with humming fans, now operates in near silence",2,gpt-4-0613,1
+1J72RF,"A person always insists on paying for others, even when they protest",1,gpt-3.5-turbo,1
+1M3QG5,A dog stands eagerly in front of a door,2,gpt-4-0613,1
+1S49UP,A dilapidated building turned into a modern architectural marvel,2,gpt-4-0613,1
+1SN9E6,An overgrown bush is now trimmed into an appealing shape,2,gpt-4-0613,1
+1V29MW,A dish towel is lying on the computer keyboard,0,gpt-4-0613,0.7
+1V5E3U,"A colleague always asks for advice, but never takes any of the suggestions",1,gpt-3.5-turbo,1
+1WP2E8,Someone consistently brings up controversial topics in social gatherings,1,gpt-3.5-turbo,1
+1WP3D4,"A student consistently arrives to class early, but never takes out their notebook or textbook",1,gpt-3.5-turbo,1
+20EWU4,An empty wallet is filled with crisp banknotes,2,gpt-4-0613,1
+20N1MR,A pair of slippers is sitting on the dashboard of the car.,0,gpt-4-0613,0.7
+21ME7N,A pacing young man sits down abruptly,2,gpt-4-0613,1
+234ZNI,A toothbrush is stuck in a pot of houseplant,0,gpt-4-0613,0.7
+23N8MQ,A television remote is placed inside a flower pot,0,gpt-4-0613,0.7
+24BW0N,"A baseball bat is in the middle of the classroom, resting on the teacher's desk",0,gpt-4-0613,0.7
+24QD7I,"A parent always insists on cooking dinner, but the meals are always burned or undercooked",1,gpt-3.5-turbo,1
+25F4GO,The same man found his once vibrant roses browning and wilting,2,gpt-4-0613,1
+25MI1A,"A child, who used to balk at vegetables, now appreciates a plateful of greens",2,gpt-4-0613,1
+27YAG8,The bright and lively paint on the town murals was now faded and peeling off,2,gpt-4-0613,1
+28GO5B,"A friend constantly makes sarcastic remarks, even when it's inappropriate",1,gpt-3.5-turbo,1
+28ZGY5,A wallet is found inside a flower vase.,0,gpt-4-0613,0.7
+2A9DT4,A water bottle is lying in the mailbox,0,gpt-4-0613,0.7
+2ASR85,A friend always borrows things and never returns them,1,gpt-3.5-turbo,1
+2HJ1R6,The dog that always barked at strangers wagged its tail instead,2,gpt-4-0613,1
+2J96KP,A teapot is found in the tool shed,0,gpt-4-0613,0.7
+2L6OM4,A person consistently ignores others' personal boundaries and invades their personal space,1,gpt-3.5-turbo,1
+2M6W4G,The young punk was tidily dressed in a suit and tie,2,gpt-4-0613,1
+2M8G4R,A man checks his phone every few minutes during a conversation,1,gpt-3.5-turbo,1
+2O8WQ0,"A woman repeatedly rewatches the same movie, even though she claims to dislike it.",1,gpt-3.5-turbo,1
+2Q91OY,"A student always sits in the front row of class, yet rarely pays attention to the lecture",1,gpt-3.5-turbo,1
+2RSH04,A colleague takes credit for others' ideas and presents them as their own,1,gpt-3.5-turbo,1
+2T7S3O,A woman buys a cart full of groceries but only pays for two items,1,gpt-3.5-turbo,1
+2THX46,A hairbrush is tucked into a flower pot,0,gpt-4-0613,0.7
+2U5G4S,A rundown building was now a luxurious hotel,2,gpt-4-0613,1
+2U61AF,"A room, typically in meticulous order, now appears scattered in disarray",2,gpt-4-0613,1
+2UT8K1,A hammer is on a dinner plate,0,gpt-4-0613,0.7
+2X7B4M,A can opener is seen on the bathroom counter,0,gpt-4-0613,0.7
+2XE08T,A teenager refuses to eat anything except for cereal,1,gpt-3.5-turbo,1
+2Y4L9D,A neighbor goes out for a run every night at exactly 3:00 AM,1,gpt-3.5-turbo,1
+327VAW,A potted plant is found in the wardrobe,0,gpt-4-0613,0.7
+34AH2C,A coat hanger is found in the dishwasher,0,gpt-4-0613,0.7
+34W0UJ,The baker has stopped smiling at customers,2,gpt-4-0613,1
+376WKO,"A woman always takes the longest way home, even if there are faster routes available.",1,gpt-3.5-turbo,1
+378XGA,A businessman uses an outdated flip phone instead of a modern smartphone,1,gpt-3.5-turbo,1
+38EJ5F,"A child refuses to eat any vegetables, even when they are mixed in with other foods",1,gpt-3.5-turbo,1
+38KA5F,A broom is propped up against the dining table,0,gpt-4-0613,0.7
+3AX7V6,A book is found in the refrigerator,0,gpt-4-0613,0.7
+3BA12Y,"A man never answers his phone, but always returns missed calls immediately",1,gpt-3.5-turbo,1
+3BT57W,"The bookshelf, usually a jumbled mess, was neatly organized",2,gpt-4-0613,1
+3C6UM4,"An old piano, once gleaming, was covered in dust",2,gpt-4-0613,1
+3D89GF,A diary is in the freezer,0,gpt-4-0613,0.7
+3GNI46,"A coworker always offers to help, but never follows through on their promises",1,gpt-3.5-turbo,1
+3HR1G7,An old man forgoes his habitual checkers game at the park,2,gpt-4-0613,1
+3J7UF5,"A coworker always eats their lunch alone in their car, even when there is a cafeteria available",1,gpt-3.5-turbo,1
+3K94LA,"A student, once struggling with math, now solves equations with ease",2,gpt-4-0613,1
+3LP9I0,"A shopping cart is in the middle of a city park, far from any supermarket",0,gpt-4-0613,0.7
+3PO86T,An umbrella is open inside the gym,0,gpt-4-0613,0.7
+3R2ZQ7,A neighbor never responds to greetings or acknowledges others' presence.,1,gpt-3.5-turbo,1
+3R4P0U,A can opener is hanging on a clothesline,0,gpt-4-0613,0.7
+3RCY10,The couple that always walked hand in hand now walked at a noticeable distance,2,gpt-4-0613,1
+3T52CP,"A neighbor takes the same walk around the block multiple times a day, rain or shine",1,gpt-3.5-turbo,1
+3U21VA,A pair of gloves is on a dining table,0,gpt-4-0613,0.7
+3UOC95,The washing machine is filled with dishes,0,gpt-4-0613,0.7
+3Z2M0Q,A bland room had been ornamented with vibrant tapestries and paintings,2,gpt-4-0613,1
+3Z4UW0,A shower cap is in a mailbox,0,gpt-4-0613,0.7
+3ZN9S6,"A microwave is standing in the middle of the garden, surrounded by flowers",0,gpt-4-0613,0.7
+3ZQ5A4,"A book, once pristine, now sports frayed edges and a cracked spine",2,gpt-4-0613,1
+41AO3Q,"A lamp shined brightly on the desk, suddenly went dark",2,gpt-4-0613,1
+41DAL3,A spoiled child has starting sharing his toys,2,gpt-4-0613,1
+42INJ9,A classmate never contributes during group discussions but always expects a good grade,1,gpt-3.5-turbo,1
+42P8CG,"A neighbor spends hours in their backyard, meticulously rearranging their plants",1,gpt-3.5-turbo,1
+43TVL7,"A bicycle, previously squeaking with each turn, now glides smoothly along the path",2,gpt-4-0613,1
+450AWN,A drink that fizzed and crackled upon opening sat still and flat,2,gpt-4-0613,1
+45T6AB,A single flip flop is floating in the swimming pool,0,gpt-4-0613,0.7
+46AU3O,A cat that often lay dozing on the windowsill was clawing at the screen,2,gpt-4-0613,1
+4A39QI,"A fountain, always gushing, now trickles gently",2,gpt-4-0613,1
+4B67DA,A coworker always has a pocketful of coins and constantly fiddles with them,1,gpt-3.5-turbo,1
+4DLJ57,A lawn mower is standing in the kitchen,0,gpt-4-0613,0.7
+4FZT95,A pair of slippers is seen on the dining table,0,gpt-4-0613,0.7
+4I1TB3,A cell phone is lying in the vegetable basket,0,gpt-4-0613,0.7
+4I89ZC,An endless desert was gradually replaced by vast expanses of green fields,2,gpt-4-0613,1
+4IL90H,"A kettle is on the bathroom floor, next to the bathtub",0,gpt-4-0613,0.7
+4IOE78,A crowded park on a Sunday afternoon is now abandoned,2,gpt-4-0613,1
+4J2M3F,A toothbrush is found in the garden,0,gpt-4-0613,0.7
+4J7W5E,A house once overlooked was now painted a vibrant purple,2,gpt-4-0613,1
+4M35YT,A student constantly chews on pens instead of using them to write,1,gpt-3.5-turbo,1
+4MI9Q2,A broken and dry tree in the woods is blossoming with flowers,2,gpt-4-0613,1
+4NBY83,The clock tower that used to chime every hour was silent,2,gpt-4-0613,1
+4O32PL,A pair of shoes is on the bookshelf,0,gpt-4-0613,0.7
+4PF78A,"A brass statue in town square neglected, turned green due to oxidization",2,gpt-4-0613,1
+4RZM53,"In the dishwasher, a cell phone is spotted",0,gpt-4-0613,0.7
+4T78KG,"A kitchen, clean and tidy, is now littered with dirty dishes and used utensils",2,gpt-4-0613,1
+4XPI95,A toy plane is found in the washing machine,0,gpt-4-0613,0.7
+4ZDT19,A noisy playground is eerily silent in the afternoon,2,gpt-4-0613,1
+517JON,A hat is found in the oven,0,gpt-4-0613,0.7
+519MYD,"A man always takes the stairs instead of the elevator, even when he has heavy bags",1,gpt-3.5-turbo,1
+53O2CJ,A bicycle is hanging from the ceiling in the kitchen,0,gpt-4-0613,0.7
+56I0AJ,A woman has a collection of stuffed animals that she treats as if they were real pets,1,gpt-3.5-turbo,1
+56YTR4,"A lamp post, once tall and straight, now leaned at an odd angle",2,gpt-4-0613,1
+57PBN1,A teenager sleeps with the lights on every night.,1,gpt-3.5-turbo,1
+59GJD7,"A woman takes a different route to work every day, even though there is a quicker option",1,gpt-3.5-turbo,1
+59LJ4P,"A man never wears shoes, going barefoot everywhere he goes",1,gpt-3.5-turbo,1
+59U2AD,A man walks into a store and buys a large amount of baking soda,1,gpt-3.5-turbo,1
+5B6UF8,A laptop is placed inside the oven,0,gpt-4-0613,0.7
+5B8KD6,A woman buys a new book every week but never reads them,1,gpt-3.5-turbo,1
+5C2J3N,"A teenager wears headphones whenever they are in a public place, even if they are not listening to anything",1,gpt-3.5-turbo,1
+5D07WB,A roll of toilet paper is unspooled on the living room floor,0,gpt-4-0613,0.7
+5EWQ48,"An athlete, once slow and hesitant, now races with swift precision",2,gpt-4-0613,1
+5F6BV3,"A woman brings her own snacks to dinner parties, even when asked not to",1,gpt-3.5-turbo,1
+5F8ZL4,"A pillow is in the refrigerator, nestled between the milk and eggs",0,gpt-4-0613,0.7
+5FV16U,A hairbrush is inside the kitchen cabinet,0,gpt-4-0613,0.7
+5IDG01,"A man walks into a store, picks up a loaf of bread, and then puts it back on the shelf without buying it",1,gpt-3.5-turbo,1
+5L0R4Z,"A kitchen knife is spotted on the study table, next to a pile of books",0,gpt-4-0613,0.7
+5QXA21,The robust man was visibly weakened,2,gpt-4-0613,1
+5X09QT,The bottom-ranked team now holds the championship trophy,2,gpt-4-0613,1
+601QXK,A coffee mug is in the washing machine,0,gpt-4-0613,0.7
+618OVQ,A woman collects empty soda cans and hoards them in her house,1,gpt-3.5-turbo,1
+61Q3TV,"A neighbor constantly rearranges the furniture in their house, even in the middle of the night",1,gpt-3.5-turbo,1
+63UAF2,A bar of soap is found in the kitchen sink,0,gpt-4-0613,0.7
+65AF7Q,A coworker always brings homemade snacks to share with everyone in the office,1,gpt-3.5-turbo,1
+67IY9O,"A television remote is placed in the shoe rack, sandwiched between a pair of sneakers",0,gpt-4-0613,0.7
+6DW4N9,"A coworker constantly complains about their workload, but never asks for assistance",1,gpt-3.5-turbo,1
+6ECP95,"A wristwatch is in the bread box, ticking quietly",0,gpt-4-0613,0.7
+6F9JH7,A toothpaste tube is in a shoe,0,gpt-4-0613,0.7
+6J40CN,A plastic bag is floating in the fish pond,0,gpt-4-0613,0.7
+6LGO97,A frying pan is found on the bed,0,gpt-4-0613,0.7
+6M2W3O,A bath towel is draped over the computer monitor,0,gpt-4-0613,0.7
+6NUK30,A snow shovel is standing next to the wardrobe in the bedroom,0,gpt-4-0613,0.7
+6O4T8V,A quiet library is now brimming with animated chatter,2,gpt-4-0613,1
+6PKI84,"A woman always carries an umbrella, even on sunny days",1,gpt-3.5-turbo,1
+6Q41CA,"A man never uses any form of transportation, walking everywhere he needs to go",1,gpt-3.5-turbo,1
+6U2S9T,"An orchard, once abundant with fruit, now houses barren trees",2,gpt-4-0613,1
+6U32YE,"A woman never throws anything away, collecting seemingly useless items in her house",1,gpt-3.5-turbo,1
+6WU52P,"In the fridge, a roll of toilet paper is chilling",0,gpt-4-0613,0.7
+6Y4C0T,The once busy airport was completely deserted.,2,gpt-4-0613,1
+70B3HL,A neighbor frequently talks to themselves while taking walks,1,gpt-3.5-turbo,1
+720FWV,A pair of glasses is discovered in the fruit bowl,0,gpt-4-0613,0.7
+72NF1Z,A pillow is on top of the car roof,0,gpt-4-0613,0.7
+73MI6E,Someone laughs at inappropriate jokes and makes others uncomfortable,1,gpt-3.5-turbo,1
+75BJH8,A frying pan is lying on the bathroom floor,0,gpt-4-0613,0.7
+76UEV9,A once bubbly and bustling brook was now just a trickle,2,gpt-4-0613,1
+79XFT2,The unkempt man now dons a three-piece suit,2,gpt-4-0613,1
+7B26CX,A photo frame is found in the kitchen drawer,0,gpt-4-0613,0.7
+7F1QB0,"A pair of skis is on the front porch, leaning against the door",0,gpt-4-0613,0.7
+7FX4V0,"A friend always insists on paying for dinner, but only takes a few bites of their own food",1,gpt-3.5-turbo,1
+7H2E9X,"A woman keeps a stack of travel brochures on her coffee table, though she never goes on any trips",1,gpt-3.5-turbo,1
+7HJN65,A winter coat is buried in the sand on the beach,0,gpt-4-0613,0.7
+7I8JF3,A busy city square is now desolate and empty,2,gpt-4-0613,1
+7IO0B5,A car key lies on the sand at the beach,0,gpt-4-0613,0.7
+7KR20B,"A roommate spends hours every day playing video games, neglecting their responsibilities",1,gpt-3.5-turbo,1
+7R4I8O,A hairdryer is found in the toolbox,0,gpt-4-0613,0.7
+7R81XL,The lively pub had switched its lamps off,2,gpt-4-0613,1
+7UD0Z1,The barren tree in the front yard flourishes with fresh leaves,2,gpt-4-0613,1
+7VMR20,"A coworker meticulously labels all their office supplies, even the ones they keep for personal use",1,gpt-3.5-turbo,1
+7XQI23,"A rusty, squeaky bicycle now glides along the pavement without a sound",2,gpt-4-0613,1
+7Y4P5J,"A man always wears a cape, even when there is no special occasion",1,gpt-3.5-turbo,1
+80C5WV,"A neighbor takes pictures of every meal they eat, regardless of how mundane.",1,gpt-3.5-turbo,1
+80QD3V,"In the bathtub, a pair of ski boots is soaking",0,gpt-4-0613,0.7
+80ZM2A,"A man, often seen biking to work, is now driving a sleek sports car",2,gpt-4-0613,1
+829VED,The street that was always filled with children playing was ominously quiet,2,gpt-4-0613,1
+82GS6M,A family member never offers help or support in times of need,1,gpt-3.5-turbo,1
+82HU3L,A field of yellow sunflowers is now golden wheat,2,gpt-4-0613,1
+849WPQ,"A basketball is floating in a backyard pool, bobbing gently in the water",0,gpt-4-0613,0.7
+84QG0D,A cell phone is in a cereal box,0,gpt-4-0613,0.7
+85PK4Z,A watering can is in the living room,0,gpt-4-0613,0.7
+891NOJ,A pair of glasses is hanging from a tree branch,0,gpt-4-0613,0.7
+89K5ZA,A once busy cafe sat vacant and empty,2,gpt-4-0613,1
+89PV1I,A coworker has a framed picture of their pet turtle on their desk,1,gpt-3.5-turbo,1
+8A5UT0,A pair of eyeglasses is hanging on the Christmas tree,0,gpt-4-0613,0.7
+8A5Y9S,A wristwatch is discovered inside a shoe,0,gpt-4-0613,0.7
+8A70NI,"A teenager always wears long sleeves, even in hot weather",1,gpt-3.5-turbo,1
+8A7F9O,A laptop is positioned under a running shower,0,gpt-4-0613,0.7
+8A7UZ1,"A coworker always wears long-sleeved shirts, even during the hottest days of summer",1,gpt-3.5-turbo,1
+8AI45P,"A toothbrush is embedded in a flower pot, nestled among the blooming petunias",0,gpt-4-0613,0.7
+8CF21W,A feather duster is sticking out of the backpack,0,gpt-4-0613,0.7
+8F31OS,"A notebook, once full and bursting, now holds only a few lonely pages",2,gpt-4-0613,1
+8FYZ75,The notorious stray cat was not seen in its usual spot near the trash bins,2,gpt-4-0613,1
+8GD9U4,"A single shoe is placed on top of a mailbox, untouched by the mailman",0,gpt-4-0613,0.7
+8H3SQ5,A woman carefully arranges all her items in her grocery cart by color,1,gpt-3.5-turbo,1
+8MBU15,"A bed, once hard as a rock, now sinks in comfort",2,gpt-4-0613,1
+8MX94R,"A man wears gloves indoors, regardless of temperature",1,gpt-3.5-turbo,1
+8O75XE,"A coworker always carries a tape measure in their pocket, measuring objects whenever they can",1,gpt-3.5-turbo,1
+8QV3X4,A friend cancels plans at the last minute without giving any explanation,1,gpt-3.5-turbo,1
+8W6TZ5,The buzzing street is now blanketed in an eerie silence,2,gpt-4-0613,1
+8YSQ93,"A coworker has a collection of ceramic figurines on their desk, meticulously arranged",1,gpt-3.5-turbo,1
+8ZI54H,A woman takes weekly yoga classes but seems stressed and anxious all the time,1,gpt-3.5-turbo,1
+90VE3R,A teddy bear is floating in the swimming pool,0,gpt-4-0613,0.7
+912IVK,"A man never takes off his hat, even when inside a building",1,gpt-3.5-turbo,1
+918VAP,A colleague never volunteers for extra work but always takes credit for the final outcome,1,gpt-3.5-turbo,1
+921NXE,The empty cafe now has a line out the door.,2,gpt-4-0613,1
+94IPZ1,"A man volunteers for overtime at work every week, even though he complains about being overworked",1,gpt-3.5-turbo,1
+95XAT6,The alarm clock is under the sofa,0,gpt-4-0613,0.7
+9A6ZM3,A vacuum cleaner is standing in the middle of a playground,0,gpt-4-0613,0.7
+9B3A8W,A child has a collection of insects kept in glass jars in their room,1,gpt-3.5-turbo,1
+9BOH64,A woman frequently spotted at parties was seen alone at the park,2,gpt-4-0613,1
+9C5BG8,A renowned painter is seen selling his pieces on the street,2,gpt-4-0613,1
+9CJ2S8,A neighbor always parks their car in front of someone else's house,1,gpt-3.5-turbo,1
+9DGW40,The mailbox is filled with groceries,0,gpt-4-0613,0.7
+9GE8M4,A woman stares at her reflection in the mirror for hours without uttering a word,1,gpt-3.5-turbo,1
+9J7F0X,An abandoned house has smoke rising from its chimney,2,gpt-4-0613,1
+9J85SY,"The mirror, usually clear, was fogged up",2,gpt-4-0613,1
+9O1W2T,"A woman spends hours meticulously applying makeup, but never leaves the house",1,gpt-3.5-turbo,1
+9O5N1T,A race car that once surged ahead of its competitors now idled at the starting line,2,gpt-4-0613,1
+9Q3M8V,"A woman constantly rearranges her shelves, trying to achieve the perfect order",1,gpt-3.5-turbo,1
+9U6GJ0,"A coworker constantly rearranges their desk, never satisfied with the layout",1,gpt-3.5-turbo,1
+9U8T3G,A skinny stray cat is noticeably plumper and healthier,2,gpt-4-0613,1
+9VRU60,"A student always sits alone in the cafeteria, even when there are empty seats at other tables",1,gpt-3.5-turbo,1
+9W1V2M,"The car once loud and prone to breaking down, ran silently",2,gpt-4-0613,1
+A0U7N6,A bedside lamp is found in the bathroom,0,gpt-4-0613,0.7
+A5OH31,"A teacher always assigns group projects, but never offers any guidance or feedback",1,gpt-3.5-turbo,1
+A65S8P,"A man, always clean-shaven, now boasts a month's growth of beard",2,gpt-4-0613,1
+A7U23F,"A baby, once unable to sit, now tries to stand",2,gpt-4-0613,1
+A9CS51,"A dog, once afraid of water, now jumps into the pool",2,gpt-4-0613,1
+AF7M01,The sturdy oak tree that was once full of life now stood bare and skeletal,2,gpt-4-0613,1
+AM5I74,"A coworker types with only two fingers, despite being proficient with a keyboard",1,gpt-3.5-turbo,1
+AVD785,A garden hose is coiled up on a sofa,0,gpt-4-0613,0.7
+B0R59C,"A man never throws away any of his old newspapers, stacking them up in his living room",1,gpt-3.5-turbo,1
+B2P89H,"A man always leaves his car keys in the exact same place, but constantly misplaces his wallet",1,gpt-3.5-turbo,1
+B546EP,"A man insists on taking the scenic route, even though it is longer and more time-consuming",1,gpt-3.5-turbo,1
+B6NT30,A broom is lying in the bathtub,0,gpt-4-0613,0.7
+B6S8E9,A rubber duck is floating in the toilet bowl,0,gpt-4-0613,0.7
+B7P13W,"The teenager's room, typically unkempt, was spotless",2,gpt-4-0613,1
+B95RK6,A struggling coffee shop is bustling with customers,2,gpt-4-0613,1
+BC0S63,The once white walls had been painted a deep navy blue,2,gpt-4-0613,1
+BI43C2,"A friend always carries around a small notebook, jotting down observations and ideas throughout the day.",1,gpt-3.5-turbo,1
+BLJ531,A woman never eats any food that is not cooked by her own hands,1,gpt-3.5-turbo,1
+BS36R0,"A sun-drenched patio, where children used to play, is now in permanent shade",2,gpt-4-0613,1
+BV53H9,A man reads the last page of a book before starting from the beginning,1,gpt-3.5-turbo,1
+BXT186,A tennis racket is lying on a pile of laundry,0,gpt-4-0613,0.7
+C07B6V,A lawn mower is in the living room,0,gpt-4-0613,0.7
+C0QL54,A student completes all of their assignments but never turns them in,1,gpt-3.5-turbo,1
+C3K64H,A egg beater is lying on the living room sofa,0,gpt-4-0613,0.7
+C51Z9O,A set of dumbbells is located under the dining table,0,gpt-4-0613,0.7
+C603NY,A dog no longer chases his tail,2,gpt-4-0613,1
+C67QB5,A pair of socks is hanging from the rearview mirror of a car,0,gpt-4-0613,0.7
+C89Q7R,A broom is standing in the elevator,0,gpt-4-0613,0.7
+C8G0N3,"A neighbor frequently mows his lawn, but it is always in disarray",1,gpt-3.5-turbo,1
+CA278F,A car key is discovered in a box of cereal,0,gpt-4-0613,0.7
+CK8L90,"A man always brings a large bag to work, but it is always empty",1,gpt-3.5-turbo,1
+CL7Y32,"A neighbor always writes in calligraphy, even for simple to-do lists",1,gpt-3.5-turbo,1
+D47H0O,"A boss always assigns extra work, even when the employee is already overwhelmed",1,gpt-3.5-turbo,1
+D4Y37V,"A woman meticulously writes down her grocery list, but always forgets to bring it with her to the store",1,gpt-3.5-turbo,1
+D946XU,"A man, notorious for his idle living, now wakes up before dawn",2,gpt-4-0613,1
+DL2T71,An acquaintance always cancels plans at the last minute and offers flimsy excuses,1,gpt-3.5-turbo,1
+DW1Y69,A coffee mug is found in the birdcage,0,gpt-4-0613,0.7
+E3XF27,A pair of eyeglasses is discovered inside the washing machine,0,gpt-4-0613,0.7
+E9Q4T6,"A woman wears multiple layers of clothing, even in the middle of summer",1,gpt-3.5-turbo,1
+EDL061,A woman constantly asks for advice but never follows it,1,gpt-3.5-turbo,1
+EI581G,A student takes extensive notes in class but never reviews them,1,gpt-3.5-turbo,1
+EK750U,"A woman spends hours meticulously organizing her closet, only to wear the same outfit every day",1,gpt-3.5-turbo,1
+EX094J,"In the garage, a teapot is placed on the workbench",0,gpt-4-0613,0.7
+F2U1O9,A cluttered desk is suddenly spotless and organized,2,gpt-4-0613,1
+F3W46E,A hand mirror is seen on the kitchen counter,0,gpt-4-0613,0.7
+F471ER,The young child avoids the swings at his favorite playground,2,gpt-4-0613,1
+F4U6P7,"A bird, quiet in its cage, is now singing loudly and cheerfully",2,gpt-4-0613,1
+F69K3R,A spatula is lodged between couch cushions,0,gpt-4-0613,0.7
+F795UO,A plate is found on the living room couch.,0,gpt-4-0613,0.7
+F7T5X2,The worn-out shoes had been replaced by a shiny new pair,2,gpt-4-0613,1
+F83HE7,A hairbrush is in the freezer,0,gpt-4-0613,0.7
+F92Z1B,A bicycle is in the middle of a living room,0,gpt-4-0613,0.7
+FB74Y5,"A neighbor collects empty cans and bottles, even though they have no recycling program in their area",1,gpt-3.5-turbo,1
+FY548E,A man consistently arrives early to meetings but leaves as soon as they start,1,gpt-3.5-turbo,1
+G20O9I,"A man, notorious for his tardiness, is the first one at a meeting",2,gpt-4-0613,1
+G41AX2,A broken mirror has been replaced with a painting,2,gpt-4-0613,1
+G4J8L7,A pair of socks is tucked into a bookshelf,0,gpt-4-0613,0.7
+G5S06Z,"A neighbor always leaves their curtains open at night, allowing everyone to see inside their house",1,gpt-3.5-turbo,1
+G62DU5,An old bridge that carried hundreds of cars every day was now blocked,2,gpt-4-0613,1
+G9L26Z,A garden rake is leaning against the bedroom wall,0,gpt-4-0613,0.7
+G9TS03,A broken watch is now ticking perfectly on time,2,gpt-4-0613,1
+GB32I8,A hairdryer is plugged in next to the kitchen sink,0,gpt-4-0613,0.7
+GB980W,A neighbor leaves their trash cans out on the curb for days after the garbage collection,1,gpt-3.5-turbo,1
+GI9L31,"A man always wears a suit, even in casual meetups",1,gpt-3.5-turbo,1
+GJ357L,The usually messy hair of a man is now neatly combed.,2,gpt-4-0613,1
+GL821D,"A teenager constantly checks his phone, even when there are no notifications",1,gpt-3.5-turbo,1
+GR0J37,A broom is leaning on a bedpost,0,gpt-4-0613,0.7
+GY148U,"A window, often left ajar, now stays firmly shut",2,gpt-4-0613,1
+H18YS7,A neighbor spends hours every day meticulously tending to their garden,1,gpt-3.5-turbo,1
+H1G24J,"A neighbor constantly changes the color of their hair, dyeing it a different shade every few days",1,gpt-3.5-turbo,1
+H37U5X,"A woman never answers her phone, always letting it go to voicemail",1,gpt-3.5-turbo,1
+H4O18W,A pair of sneakers is in the fruit bowl,0,gpt-4-0613,0.7
+H609BZ,"A student always arrives to class early, but never participates in any discussions",1,gpt-3.5-turbo,1
+H84FX2,A bicycle pump is seen in the bathtub,0,gpt-4-0613,0.7
+H86S7G,The stray dog that used to roam the streets now lay peacefully in someone's yard,2,gpt-4-0613,1
+HT3Z76,A neighbor often hosts loud parties late into the night,1,gpt-3.5-turbo,1
+I31PO4,"A boss always schedules long meetings, but only discusses minor issues.",1,gpt-3.5-turbo,1
+I3T1B6,"A rusty swing squeaks no longer, now moving quietly back and forth",2,gpt-4-0613,1
+I5YK20,An oven mitt is found in the tool box,0,gpt-4-0613,0.7
+I639DR,"A sibling always hoards all the snacks, but hardly ever eats them",1,gpt-3.5-turbo,1
+I8E5X9,"The dog, typically active, spends the day sleeping",2,gpt-4-0613,1
+I976OB,"A man never uses any electronic devices, opting for manual tools for everything",1,gpt-3.5-turbo,1
+I9HU84,A dilapidated house on the street is now vivid with fresh paint,2,gpt-4-0613,1
+IA496W,"A toothpaste tube is in the freezer, next to the ice cube tray",0,gpt-4-0613,0.7
+IV5J26,"A dog, who ordinarily hates water, is now splashing joyfully in the pool",2,gpt-4-0613,1
+IW7Y08,"The garden, regularly filled with blooming plants, was overrun with weeds",2,gpt-4-0613,1
+J146DQ,A fresh bouquet of flowers is lying in the trash bin,0,gpt-4-0613,0.7
+J2TG95,A co-worker always seems disinterested and distracted during meetings,1,gpt-3.5-turbo,1
+J57S4C,A car key is found in a bowl of popcorn,0,gpt-4-0613,0.7
+J62I3F,"A woman has a collection of rubber ducks, displayed prominently in her living room",1,gpt-3.5-turbo,1
+J678GO,A pair of socks is hanging from a tree branch,0,gpt-4-0613,0.7
+J7E9P0,A man insists on ironing his pajamas before going to bed,1,gpt-3.5-turbo,1
+J87ZX4,"A restaurant patron takes a bite of their meal, then immediately spits it back out into their napkin",1,gpt-3.5-turbo,1
+JF62C7,A box of cereal is lying on the floor of the garage,0,gpt-4-0613,0.7
+JQ6P82,"A door, usually locked tight, now stands wide open",2,gpt-4-0613,1
+JT260Y,A friend continuously makes plans but always cancels at the last minute,1,gpt-3.5-turbo,1
+JV23W9,A pair of reading glasses is submerged in the dog's water bowl,0,gpt-4-0613,0.7
+JYM587,"A bicycle is on the roof of a house, casting a long shadow",0,gpt-4-0613,0.7
+K0X4B8,The kitchen sink is filled with colorful laundry.,0,gpt-4-0613,0.7
+K17F2D,"A car, previously filled with gasoline, now runs on electricity",2,gpt-4-0613,1
+K1Z76M,A pillow is left on the swing in the park,0,gpt-4-0613,0.7
+K456XU,An employee is always the last to arrive and the first to leave work,1,gpt-3.5-turbo,1
+K94CG0,"An old, faded painting is now full of bright, vivid colors",2,gpt-4-0613,1
+KE46W2,A woman constantly rearranges the furniture in her living room,1,gpt-3.5-turbo,1
+KF397N,"A student raises their hand in class, eager to answer every question but never seems to get any of them right",1,gpt-3.5-turbo,1
+KRJ902,A man who never read a book is now an accomplished author,2,gpt-4-0613,1
+KV019T,"A friend buys extravagant gifts for others, but never celebrates their own birthday",1,gpt-3.5-turbo,1
+KY283H,A co-worker always arrives late to meetings and offers no explanation,1,gpt-3.5-turbo,1
+L53B8T,"The bottle of wine was full in the morning, was empty by evening",2,gpt-4-0613,1
+L5JR83,A pair of gloves is lying on the bathroom sink,0,gpt-4-0613,0.7
+L6I1C9,"A vintage car, once idle, roars to life",2,gpt-4-0613,1
+L75DI1,A watch is in a teapot.,0,gpt-4-0613,0.7
+L9F5S4,"A man, silent by nature, is heard laughing uproariously in his living room",2,gpt-4-0613,1
+LE35M7,A coffee mug is discovered in the shower,0,gpt-4-0613,0.7
+LK2T54,"A man, who usually ate alone, invited a guest to his table",2,gpt-4-0613,1
+LS209P,"A frying pan sits on a bed, surrounded by pillows",0,gpt-4-0613,0.7
+M376WV,A frying pan is found on the patio,0,gpt-4-0613,0.7
+M5X9F0,A teenager laughs hysterically at a sad movie,1,gpt-3.5-turbo,1
+M69I4W,A woman who never wore heels now walks only in them,2,gpt-4-0613,1
+M843VH,"A school backpack is in a shopping cart, surrounded by groceries.",0,gpt-4-0613,0.7
+MFX815,"A wallet is found in the freezer, next to a bag of frozen peas",0,gpt-4-0613,0.7
+MK579Z,"The parking lot, crowded at all hours, held only a single car",2,gpt-4-0613,1
+MP75W1,A family member constantly interrupts others when they are speaking,1,gpt-3.5-turbo,1
+MVD397,"A child, who hated books, is reading under a tree",2,gpt-4-0613,1
+N081ZU,"A student sits in the back of the classroom, constantly doodling in their notebook",1,gpt-3.5-turbo,1
+N0IR79,A fork is stuck in a pot plant,0,gpt-4-0613,0.7
+N42XE7,A teddy bear is sitting on the driver's seat of a car,0,gpt-4-0613,0.7
+N5H7V6,A television remote is found in the refrigerator,0,gpt-4-0613,0.7
+N5UB01,The once glistening crystal clear pool looked murky and unkempt,2,gpt-4-0613,1
+NG583Z,"A book, left untouched on the shelf for years, now has a worn and dog-eared appearance.",2,gpt-4-0613,1
+NGJ742,"A bustling street, always alive with traffic and vendors, is eerily silent and empty.",2,gpt-4-0613,1
+NK6R05,An employee always asks for help with simple tasks they should be able to do on their own,1,gpt-3.5-turbo,1
+NO24M3,A habitual diet coke drinker now only drinks fruit juice.,2,gpt-4-0613,1
+O1H89V,A skateboard is lying on the bed,0,gpt-4-0613,0.7
+O25SF7,A rundown school was vibrant with a new coat of paint,2,gpt-4-0613,1
+O30X7J,A team member frequently criticizes others' ideas without offering alternative solutions,1,gpt-3.5-turbo,1
+O3Y65N,"A woman high-fives everyone she meets, regardless of whether she knows them or not. ",1,gpt-3.5-turbo,1
+O4VR32,A consistent blogger has stopped posting for weeks,2,gpt-4-0613,1
+O930DX,"A bicycle is standing in the middle of a library, between the bookshelves",0,gpt-4-0613,0.7
+OF8K47,"A teapot is in the backyard, filled with rainwater",0,gpt-4-0613,0.7
+OK3I28,An alarm clock is found in the garden,0,gpt-4-0613,0.7
+OMA390,"A person never says ""thank you"" or shows any appreciation for favors",1,gpt-3.5-turbo,1
+OV35J4,The dilapidated house was gleaming with fresh paint,2,gpt-4-0613,1
+P17TQ2,"The old clock, habitually silent, now chimes every hour",2,gpt-4-0613,1
+P240NM,"A man, usually forgotten, is suddenly the talk of the town",2,gpt-4-0613,1
+P420SR,"A neighbor often practices playing the violin, creating a cacophony of dissonant sounds",1,gpt-3.5-turbo,1
+P9GR68,"A coffee mug, usually rinsed immediately, is now stained with dried, leftover brew",2,gpt-4-0613,1
+PHG643,A baby's diaper is found in the office drawer,0,gpt-4-0613,0.7
+PL27J4,A garden hose is coiled up in the living room,0,gpt-4-0613,0.7
+POE864,A man constantly looks over his shoulder as he walks down the street,1,gpt-3.5-turbo,1
+PZ0E67,A friend frequently gossips about others and spreads rumors,1,gpt-3.5-turbo,1
+Q07Z4S,A woman known for being selfish is seen helping a blind man cross the street,2,gpt-4-0613,1
+QR35W9,"A child constantly asks to go to the park, but once there, refuses to play on any of the equipment",1,gpt-3.5-turbo,1
+QZ769X,A set of car keys is hanging from a ceiling fan,0,gpt-4-0613,0.7
+R3H50J,A lamp that had sat atop a table now lay shattered on the floor,2,gpt-4-0613,1
+R4N9A2,A woman hangs up a phone call abruptly as soon as the other person starts speaking,1,gpt-3.5-turbo,1
+R5G3T0,A neighbor never makes eye contact or engages in small talk,1,gpt-3.5-turbo,1
+RDW784,An old boat was found sunk in the lake,2,gpt-4-0613,1
+RI71G6,A set of car keys is hanging from a branch of the apple tree in the backyard,0,gpt-4-0613,0.7
+RL30F4,"In the middle of the living room, a garden gnome is placed",0,gpt-4-0613,0.7
+RZ5Y47,"A classmate frequently takes naps during lectures, but always gets high grades",1,gpt-3.5-turbo,1
+S6HQ78,A man writes a detailed to-do list every morning but never completes any of the tasks,1,gpt-3.5-turbo,1
+S7X50A,"A person always arrives late to meetings, but is always well-prepared",1,gpt-3.5-turbo,1
+S815OC,"A tennis racket is in the bathroom, leaning against the sink",0,gpt-4-0613,0.7
+S81H2Z,"A flashlight is in the birdcage, illuminating the chirping bird",0,gpt-4-0613,0.7
+S963PG,"A student, typically wearing a uniform, now arrives in casual clothes",2,gpt-4-0613,1
+SGB187,"A coworker always has a perfectly organized desk, but their work is always late",1,gpt-3.5-turbo,1
+SK1O86,A toy car is in the shoe rack,0,gpt-4-0613,0.7
+SU327I,"A woman always wears sunglasses indoors, even at night",1,gpt-3.5-turbo,1
+SY0J43,A once grand mansion stood in ruins,2,gpt-4-0613,1
+T0D34N,"A pair of glasses is on the floor of the bus, unnoticed by the passengers",0,gpt-4-0613,0.7
+T209VF,An empty room only has a single chair in the center,2,gpt-4-0613,1
+T2U01Y,"A woman changes her outfit multiple times, even if she stays home all day. ",1,gpt-3.5-turbo,1
+T2U87I,An oven mitt is hanging from a coat rack,0,gpt-4-0613,0.7
+T3Z9P6,"A car tire is lodged in a tree, high above the ground",0,gpt-4-0613,0.7
+T68X4M,"A neighbor plays loud music late at night, disturbing others",1,gpt-3.5-turbo,1
+TG80Y4,"A wristwatch is submerged in a fish tank, next to a goldfish",0,gpt-4-0613,0.7
+TO16L9,"A coworker takes long lunch breaks, always returning with takeout food",1,gpt-3.5-turbo,1
+TO83H0,A shopping cart is parked in the middle of the sidewalk,0,gpt-4-0613,0.7
+TP8X01,An always punctual woman was late for the meeting,2,gpt-4-0613,1
+TP96B2,An umbrella is open in the living room,0,gpt-4-0613,0.7
+TQ786X,"A pair of faded, wrinkled jeans looks brand new",2,gpt-4-0613,1
+TR7N52,A computer mouse is seen floating in the swimming pool,0,gpt-4-0613,0.7
+U498ZR,"A man keeps rearranging the books on his bookshelf, never satisfied with the order",1,gpt-3.5-turbo,1
+UA86Y4,"A hairdryer is on the dining table, next to the salt shaker",0,gpt-4-0613,0.7
+UF106E,"A man always wears sunglasses indoors, regardless of the lighting",1,gpt-3.5-turbo,1
+UG03X6,A playground once filled with laughter and activity was eerily silent,2,gpt-4-0613,1
+UO92G6,A blender is on the bathroom counter,0,gpt-4-0613,0.7
+US3D58,The old and dusty library is now packed with youngsters.,2,gpt-4-0613,1
+V1R84A,A baseball bat is found in the bathroom cabinet,0,gpt-4-0613,0.7
+V2BT59,A coworker keeps a pet rock on their desk and talks to it during their breaks,1,gpt-3.5-turbo,1
+V37IM0,A toothpaste tube is lying on the television stand,0,gpt-4-0613,0.7
+V5N9Z0,"A dusty, neglected piano is now polished and producing melodious tunes",2,gpt-4-0613,1
+V7Q1N2,A teapot is sitting on the desk in the office,0,gpt-4-0613,0.7
+V7Q32D,"A woman spends hours in front of a mirror, but looks disheveled when she leaves the house",1,gpt-3.5-turbo,1
+VF943Y,"An espresso machine, firing up instantly every morning, now takes its slow, sweet time",2,gpt-4-0613,1
+VG680B,A toy car is found in the sugar bowl,0,gpt-4-0613,0.7
+VJL470,"A mobile phone is lying on the kitchen counter, smeared with flour",0,gpt-4-0613,0.7
+VQ5W13,"A man carries a small notebook with him everywhere, writing down every conversation he overhears",1,gpt-3.5-turbo,1
+W1D0O8,A classmate constantly seeks attention and interrupts the teacher during lectures,1,gpt-3.5-turbo,1
+W50FX4,A rusty metal gate now gleams brightly,2,gpt-4-0613,1
+W521GF,"A toothbrush is found in the refrigerator, next to a carton of milk",0,gpt-4-0613,0.7
+W53OB2,"A woman constantly checks her phone, but never responds to any messages or calls",1,gpt-3.5-turbo,1
+W5E16G,A pair of socks is in the kitchen sink,0,gpt-4-0613,0.7
+W709UO,"A woman always wears gloves, even when it's warm outside",1,gpt-3.5-turbo,1
+WK1Q94,A laptop is sitting on the stove in the kitchen,0,gpt-4-0613,0.7
+WM41P0,A committed non-reader now carries a book everywhere.,2,gpt-4-0613,1
+WX18U0,A kitchen knife is seen lying on a bed,0,gpt-4-0613,0.7
+X0TE74,"A neighbor mows their lawn every day, even though it is already perfectly manicured",1,gpt-3.5-turbo,1
+X69VM0,"A music CD is in the washing machine, spinning in the rinse cycle",0,gpt-4-0613,0.7
+X6NE18,"A woman insists on driving her friends everywhere, never letting them take turns",1,gpt-3.5-turbo,1
+X874BF,"A man, previously inattentive, gazes keenly at his surroundings",2,gpt-4-0613,1
+X87ND3,"A family member always offers to drive, but consistently gets lost on the way",1,gpt-3.5-turbo,1
+XI708F,"A roommate stays up late every night, talking on the phone in hushed whispers",1,gpt-3.5-turbo,1
+XL75Q2,A neighbor frequently leaves their laundry hanging outside overnight,1,gpt-3.5-turbo,1
+XLR205,"A woman always wears mismatched socks, regardless of the occasion",1,gpt-3.5-turbo,1
+XN3F50,A kitchen knife is stuck in a pot of soil,0,gpt-4-0613,0.7
+XZ20D4,A man obsessively cleans his car but never takes it for a drive,1,gpt-3.5-turbo,1
+Y143LH,A fastidious librarian leaves books unsorted on her desk,2,gpt-4-0613,1
+Y1CZ20,A shy girl is now always the center of attention at parties,2,gpt-4-0613,1
+Y20T8X,"A frying pan is hanging from a tree branch, swaying slightly in the breeze",0,gpt-4-0613,0.7
+Y2QP08,"A coworker always carries a notebook with them, jotting down thoughts and ideas throughout the day",1,gpt-3.5-turbo,1
+Y3E9H4,A toothbrush rests on a desk next to a stapler,0,gpt-4-0613,0.7
+Y4LM92,A child collects rocks from the backyard and lines them up in a straight line,1,gpt-3.5-turbo,1
+Y7J9G3,"A man arrives home late every night, smelling like perfume",1,gpt-3.5-turbo,1
+YO30J1,A man always wears a suit and tie to the grocery store,1,gpt-3.5-turbo,1
+YPF803,A screwdriver is discovered in the cutlery drawer,0,gpt-4-0613,0.7
+YU2W09,A defunct factory is now a flourishing shopping mall,2,gpt-4-0613,1
+Z0M4L5,An apartment once buzzing with activity sat unnervingly quiet,2,gpt-4-0613,1
+Z1FR54,"A clock, once impeccably accurate, now consistently falls behind by five minutes",2,gpt-4-0613,1
+Z295KP,A coworker insists on using a typewriter instead of a computer for all office tasks,1,gpt-3.5-turbo,1
+Z530XW,"A solitary park bench, once empty, now hosts a crowd of pigeons",2,gpt-4-0613,1
+Z65SL3,"A man always takes the stairs, even when there is an elevator available",1,gpt-3.5-turbo,1
+Z726BK,"A mirror, usually spotless, is now dotted with splashes and streaks",2,gpt-4-0613,1
+Z865EF,The bowling ball is nestled among the fruits in the kitchen basket,0,gpt-4-0613,0.7
+ZM578Y,"A baby hated bath time, but now he giggled and splashed with enthusiasm",2,gpt-4-0613,1
+ZO362E,A bustling market turned into a deserted square,2,gpt-4-0613,1
+ZQ5G78,A classmate sits alone during lunch breaks and avoids social interactions,1,gpt-3.5-turbo,1
+ZS384N,An abandoned house is now popping with kids' laughter,2,gpt-4-0613,1
+ZVW258,"A man always walks three steps behind everyone else, regardless of the situation",1,gpt-3.5-turbo,1
+ZX814Q,A crowded marketplace was void of vendors,2,gpt-4-0613,1
+017VML,A spoon is in the mailbox,0,gpt-4,1
+01YX2J,"A dog, previously lackadaisical, now chases its tail with vigor",2,gpt-4-0613,1
+02WP6Z,A clock was ticking inside the toolbox,0,gpt-3.5-turbo-16k,1
+049TSE,A faucet began to drip without any touch,2,gpt-4-0314,1
+04O3YL,A tailor constantly sewing buttons in the wrong places.,1,gpt-4,1
+054FGV,A passenger on a train decides to sit on the floor instead of an empty seat,1,gpt-4-0314,1
+06GO7F,A parent eats a meal alone at a noisy playground.,1,gpt-4-0314,1
+078EHZ,A wrench was placed on the bed,0,gpt-4-0314,1
+07ONM6,The garden gnome was suddenly missing from the yard,2,gpt-4,1
+07X5JI,The teacher's desk is stained with crayons,2,gpt-4-0613,1
+097FVL,A flashlight was found on a serving platter,0,gpt-4-0314,1
+09X1JM,A traveler enters an airport wearing winter clothes during summer,1,gpt-4-0314,1
+0AJV58,"The restaurant, usually buzzing with activity, stands empty",2,gpt-4-0613,1
+0D8CX6,A bartender is seen cleaning the same glass for a prolonged period,1,gpt-4-0314,1
+0DPH95,An antique shop began displaying modern trinkets,2,gpt-4-0613,1
+0DVL16,A dog leash is wrapped around a bedside lamp,0,gpt-4,1
+0EBZ75,The florist arranged only half of the bouquet,1,gpt-4-1106-preview,1
+0FYB85,"A mail carrier ignores a ""no soliciting"" sign and delivers flyers on the doorstep",1,gpt-4-0314,1
+0HKR65,A calculator was buried in the backyard,0,gpt-3.5-turbo-16k,1
+0HU92E,The librarian placed the book on a shelf out of alphabetical order,1,gpt-4-1106-preview,1
+0K18PU,A man was seen digging a hole in his backyard at 3 AM,1,gpt-4-0613,1
+0K91XA,A dog owner wears their dog's collar around their neck,1,gpt-4-0314,1
+0LBD76,A key is found in the fruit bowl,0,gpt-4,1
+0QA19R,A doctor listens to an empty room with a stethoscope,1,gpt-4-0314,1
+0S4L3J,A bicycle tire is rolled into an office cubicle,0,gpt-4,1
+0S8Y3C,A teenager is keeping all his window shades shut during the day,1,gpt-4-0613,1
+0VY2L4,A pair of shoes always polished was covered in dust,2,gpt-4-0613,1
+0YG3O7,A coffee pot that usually contains coffee is now filled with Vin chaud,2,gpt-4-0613,1
+13JWE6,"A woman always insists on paying for dinner, but never carries a wallet",1,gpt-3.5-turbo-16k,1
+159WDE,"A firefighter always carries an umbrella, regardless of the weather",1,gpt-4-0613,1
+16SF3G,A toothbrush is resting on a bookshelf,0,gpt-3.5-turbo-16k,1
+170RNP,The kettle didn't whistle when it started boiling,2,gpt-4-0314,1
+174WKC,A blue paste was squeezed onto a sandwich,0,gpt-4-0314,1
+175DPS,A man who always wore glasses was without them,2,gpt-4-0613,1
+175ZAC,A grown man crawls on the floor instead of walking at his office,1,gpt-4-0314,1
+18UZC9,A bus went by without stopping at the designated stop,2,gpt-4-0314,1
+18ZR9P,A man walked into the room with a limp,2,gpt-4-0314,1
+1A90DG,A mailman was absent from his daily route,2,gpt-4-0613,1
+1B7J8C,A hammer was wedged between the couch cushions,0,gpt-3.5-turbo-16k,1
+1C6IW7,A baseball is stuck on a chandelier,0,gpt-4,1
+1DI36J,A man repeatedly smells his wristwatch in the restaurnt,1,gpt-4-0314,1
+1F4NH8,A boy was spotted talking to a tree in the park for an hour,1,gpt-4,1
+1FS64I,"The corner mailbox stood with its door ajar, though it had always been securely closed. ",2,gpt-4-0314,1
+1G4D8W,A woman in the supermarket fills her cart with only canned peas,1,gpt-4-0314,1
+1GJ3M6,A sofa acquired a mysterious indentation,2,gpt-4-0314,1
+1M58HR,The escalator carrying shoppers up and down had come to a standstill,2,gpt-4-1106-preview,1
+1MR94A,A librarian arranged all of the books out of order,1,gpt-4-0613,1
+1NML38,A chef always tossed a pinch of every ingredient over his shoulder while cooking,1,gpt-4-0613,1
+1NZ59T,"In the middle of a concert, a musician suddenly stopped playing his instrument",1,gpt-4,1
+1O84CJ,"A man sighs heavily when he finishes a book, but immediately starts reading the next one",1,gpt-3.5-turbo-16k,1
+1QB93Z,A couple who never had visitors had two cars in their driveway,2,gpt-4,1
+1QXG02,A construction worker brings his pet bird to the site,1,gpt-4-0613,1
+1W2H9O,A couple orders food at a restaurant and immediately starts putting it into small plastic containers,1,gpt-4-0314,1
+1W3YB6,A potted cactus inhabits the space under the dining table,0,gpt-4-0314,1
+210XWU,A neighbor consistently parks their car halfway on the sidewalk,1,gpt-3.5-turbo-16k,1
+24NTQ8,An alarm clock that used to buzz at 6 a.m. fell silent,2,gpt-4-0613,1
+25VJH7,A houseplant is in the dishwasher,0,gpt-4,1
+26RJ4A,A man was seen washing his car in the pouring rain,1,gpt-4,1
+27FS0H,"An electrician touches two wires together, then laughs when the lights flicker",1,gpt-4-0314,1
+27WUK5,A footballer left the field in the middle of a game,1,gpt-4-0613,1
+281AQV,A computer screen displayed garbled text instead of a document,2,gpt-4-0314,1
+295MUA,A pot holder is hanging from a shower rod,0,gpt-4,1
+29YQH0,A car lay dust-covered in the garage,2,gpt-4,1
+2AG8V5,A shoe is sitting on a windowsill,0,gpt-3.5-turbo-16k,1
+2BG81V,The mailman started his route at the opposite end of the neighborhood,1,gpt-4-1106-preview,1
+2C4EW7,A clock is hanging on the tree branch,0,gpt-4,1
+2CKJ47,A fork was sticking out of a potted plant,0,gpt-3.5-turbo-16k,1
+2EN5R9,A potted plant occupied the bathtub,0,gpt-4-0314,1
+2GT3Z7,The local diner's neon sign was off for the night,2,gpt-4,1
+2GVQ07,An old man who jogged in the park every morning was seen limping today,2,gpt-4,1
+2HY7X9,A young man in a busy train started loudly singing national anthems of different countries,1,gpt-4,1
+2JZB83,A shopping cart veered off course,2,gpt-4-0314,1
+2KJ9U1,A cell phone is tucked inside a slipper,0,gpt-4,1
+2L5G1W,"A coworker volunteers for extra projects, but never completes them",1,gpt-3.5-turbo-16k,1
+2L6SI9,An ironing board serves as a makeshift door,0,gpt-4-1106-preview,1
+2NV54T,An oven mitt clung to the door handle,0,gpt-4-0314,1
+2NZ1R9,The sandbox at the playground is surprisingly full of water,2,gpt-4,1
+2O40EP,"A sibling always takes the last slice of pizza, but claims they didn't",1,gpt-3.5-turbo-16k,1
+2PG16U,A bar of soap sat on the kitchen counter,0,gpt-4-0314,1
+2R8IZ5,A bus driver speaks to each passenger individually before they board,1,gpt-4-0314,1
+2WH4E6,A television remote control is under the pillow,0,gpt-4,1
+2X30IS,The receptionist answered the phone but remained silent,1,gpt-4-1106-preview,1
+2X4Z1F,A landlord collects rent checks but never hands out receipts.,1,gpt-4-0314,1
+2XVL10,A mother unexpectedly leaves her baby stroller outside before entering a store,1,gpt-4-0314,1
+30ISU1,"Her paint brushes lay dry, untouched by the rainbow of hues",2,gpt-4,1
+328BHQ,A bottle of shampoo stood beside the kitchen sink,0,gpt-4-0314,1
+34CTW7,"A coworker always brings in homemade treats for everyone, but never eats any themselves",1,gpt-3.5-turbo-16k,1
+34OV0K,A blender is switched on in the library,0,gpt-4,1
+354HXE,"A woman, formerly adorned in vibrant hues, now appears in monochromatic attire",2,gpt-4-0613,1
+36EAI2,Chopsticks are stuck into a bunch of bananas,0,gpt-4,1
+36XLV8,A umbrella was propped up against the fireplace,0,gpt-3.5-turbo-16k,1
+38A0JW,A kitchen wok is under a bed,0,gpt-4,1
+39JW0P,A woman returned a pair of shoes to a store for the third time in a week,1,gpt-4-0613,1
+3AZ5C9,A man in a suit wears slippers instead of dress shoes to work,1,gpt-4-0314,1
+3D5J4U,A cat that always slept in the sun was now lounging in the shade,2,gpt-4,1
+3E6Q4S,A smartphone is taped to a streetlight pole.,0,gpt-4-1106-preview,1
+3F6EH2,A teenager is attempting to climb a towering building with no safety equipment,1,gpt-4,1
+3HIO29,A man leaves his front door ajar and walk away,1,gpt-4,1
+3J9VY0,A girl who never spoke raised her hand to answer a question,2,gpt-4-0613,1
+3M45EQ,A road regularly jammed with traffic was clear,2,gpt-4-0613,1
+3N4F2D,A toaster is surrounded by seashells on the beach,0,gpt-4,1
+3OP5V4,"On a very hot day, a man was noticed wearing a heavy winter coat",1,gpt-4,1
+3PG58H,A stapler is perched on a tree branch,0,gpt-3.5-turbo-16k,1
+3RVT69,A shopkeeper was spotted arranging his goods in completely dark,1,gpt-4,1
+3UKP50,A toaster is placed on a bedroom nightstand,0,gpt-4-1106-preview,1
+3VS1Z2,"A librarian, always seen reading books, suddenly started knitting",1,gpt-4,1
+3W60IU,A restaurant famed for its seafood started serving steak,2,gpt-4-0613,1
+3WB1L4,A pair of scissors rests on top of a birthday cake,0,gpt-3.5-turbo-16k,1
+3X2N4E,"A coworker always eats at their desk, but never takes a lunch break",1,gpt-3.5-turbo-16k,1
+3Z8DE2,A teacup is balanced on a traffic cone,0,gpt-4-0314,1
+416TBE,A surfboard protrudes from a library bookshelf,0,gpt-4-1106-preview,1
+41D8XJ,A mailman who used to carry a big bag on a bicycle is seen walking today,2,gpt-4,1
+43YV8K,A hammer is balanced on top of a pile of pillows,0,gpt-3.5-turbo-16k,1
+43ZC9U,A dense fog replaced the usual clear morning view from the window,2,gpt-4,1
+45GLI9,A man enters a jewelry store and just stares at the cashier,1,gpt-4-0314,1
+45TI9E,The usual aroma of bread from the bakery is replaced by the smell of charred wood,2,gpt-4,1
+47IW1F,A boy would always wear a ski-mask while cycling in the summer,1,gpt-4-0613,1
+48LTH3,A tennis racquet hangs from a ceiling light fixture,0,gpt-4-1106-preview,1
+4A1SZ6,A cat became attached to a particular scratching post.,2,gpt-4-0314,1
+4B2G3D,A ping pong paddle lies on the kitchen counter,0,gpt-4-0314,1
+4BDP25,The bustling grocery on Main Street is unusually quiet today,2,gpt-4,1
+4C13HQ,A pen is perched on a park bench,0,gpt-3.5-turbo-16k,1
+4DFC65,A bicycle is upside down on a dining table,0,gpt-4-1106-preview,1
+4DT61P,A watch is ticking inside a bread loaf,0,gpt-4,1
+4E2M5Y,Paint peels off the once brightly colored front door,2,gpt-4,1
+4HGZ53,A dog sat quietly in the bustling park with its eyes fixed in the air,2,gpt-4-0613,1
+4J6UX3,The quiet alleyway was bright with festive lights,2,gpt-4-0613,1
+4KUC13,A spatula was under the bathroom sink,0,gpt-4-0314,1
+4L10RK,A lawn chair is leaning against a classroom chalkboard,0,gpt-4,1
+4L1WQ3,A lamp that always illuminated the room was dim,2,gpt-4-0613,1
+4M6V2G,A man started to do push-ups in an elevator full of people,1,gpt-4,1
+4M7O0G,A pile of dirty laundry is spread out on a kitchen counter,0,gpt-4-1106-preview,1
+4MX7F8,"A woman takes numerous photographs, but keeps them hidden away in a drawer",1,gpt-3.5-turbo-16k,1
+4N7B6O,A guitar was leaning against the toilet,0,gpt-3.5-turbo-16k,1
+4PC3E6,Suddenly a door slammed shut even windless weather,2,gpt-4-0314,1
+4TW15Y,The southbound train arrived on the northern platform,2,gpt-4,1
+4UHT06,"The grandfather clock ticks worklessly, silent for the first time in decades",2,gpt-4,1
+4V9I6X,The stray cat that visited daily for scraps didn't show up this morning. ,2,gpt-4-1106-preview,1
+4VX6F5,A teenager frequently checks his phone during a conversation,1,gpt-3.5-turbo-16k,1
+51YW7X,An alarm clock was silent in the morning,2,gpt-4,1
+52AX4M,A professor started writing with his left hand despite being right-handed,1,gpt-4,1
+532VTP,"The ladder, usually residing in the garage, was found on the roof",2,gpt-4-0613,1
+53ZR7A,A package of diapers supports a stack of dinner plates,0,gpt-4-0314,1
+560WOD,A plastic chair is on top of a bus stop,0,gpt-4,1
+562NTS,A scientist spills a drop of liquid on the floor and carefully watches it,1,gpt-4-0314,1
+56F8HX,A baker kept baking the same loaf of bread even though it never sold,1,gpt-4,1
+584HVY,A pile of dishware is in the shower,0,gpt-4,1
+58IAG2,A dog refuses to eat his favorite food,1,gpt-4-0613,1
+58RLG4,A woman skips in the line at the grocery store checkout,1,gpt-4-0314,1
+59LJH1,A comb is lying on a plate of spaghetti,0,gpt-3.5-turbo-16k,1
+5AW04M,A bicycle tire went flat mid-ride,2,gpt-4-0314,1
+5C4HL3,A man started cleaning the grass in the park with a vacuum cleaner,1,gpt-4,1
+5F97BW,A stack of newspapers blocks a refrigerator's door,0,gpt-4-1106-preview,1
+5FG1O6,An artist uses food like pasta and rice in his paintings,1,gpt-4-0613,1
+5FXS76,"A woman meticulously plans each detail of a trip, but cancels it at the last minute",1,gpt-3.5-turbo-16k,1
+5GB06C,The bus driver skipped the busiest stop without pausing,1,gpt-4-1106-preview,1
+5IH8N1,A friend always interrupts others while they are speaking,1,gpt-3.5-turbo-16k,1
+5O38PQ,"A baker's bread, known for its golden crust, came out of the oven pale and soft. ",2,gpt-4-1106-preview,1
+5P0X6N,Wine glasses are put away and are no longer displayed in the dishware store,2,gpt-4,1
+5PM8K0,The ice cream truck's familiar jingle didn't resonate through the streets,2,gpt-4-1106-preview,1
+5T72LU,An artist painted the same scene every day despite changing landscapes,1,gpt-4-0613,1
+5TW14U,A staff was seen dancing alone in the middle of an empty supermarket at midnight,1,gpt-4,1
+5U38YE,A man who usually wore suits showed up in torn jeans,2,gpt-4-0613,1
+5W8M9Z,"A cat, loyal to its daily windowsill perch, was notably absent",2,gpt-4-1106-preview,1
+60HW2R,The bookshop at the end of the road has swapped its usual classics with contemporary novels,2,gpt-4,1
+619ESI,The gardener trimmed the hedges into uneven shapes,1,gpt-4-1106-preview,1
+61AWX5,A book was submerged in the fish tank,0,gpt-4-0314,1
+62LS9W,The graffiti on the bridge was painted over,2,gpt-4-0613,1
+62UE8S,A pencil is sitting on a plate of spaghetti,0,gpt-3.5-turbo-16k,1
+62W4OF,A usually punctual man was late for his train,2,gpt-4-0613,1
+62XY0O,A roll of toilet paper unravels down a flight of stairs,0,gpt-4-1106-preview,1
+63NYS5,A camera sits in the middle of a locker room.,0,gpt-4,1
+63TH9L,An office usually bustling with activity was eerily quiet,2,gpt-4-0613,1
+645CPI,An author was seen constantly buying his own book at various bookshops,1,gpt-4,1
+65KY0O,"A lifeguard stares at the pool, but never enters it or interacts with the swimmers",1,gpt-4-0314,1
+68TAZ4,"The revolving door of the hotel entrance spun no more, directing guests to a side entrance",2,gpt-4-1106-preview,1
+6DW3M9,The strict librarian was seen smiling heartily,2,gpt-4,1
+6FX2J4,A man was seen taking his snake for a swim at the local community pool,1,gpt-4,1
+6G5P1C,A student writes their test backward starting from the last question,1,gpt-4-0314,1
+6GL4Y5,A man brings a toaster to a pub and toasts some bread,1,gpt-4-0314,1
+6GV71O,A toaster is on the seat in a bus,0,gpt-4,1
+6HX4W7,A baker set the oven timer for twice the usual duration,1,gpt-4-1106-preview,1
+6IM5H2,The cat's toy mouse is hidden within a teacup,0,gpt-4,1
+6JX40D,A river known for its calm flow was rushing,2,gpt-4-0613,1
+6MOI74,A tree that previously crowded with birds was deserted,2,gpt-4-0613,1
+6OTA18,A necktie was draped over the toaster.,0,gpt-4-0314,1
+6S4E5J,A sandwich was inside a shoebox,0,gpt-4-0314,1
+6T40MR,Newspapers covered the stovetop,0,gpt-4-0314,1
+6TR7L4,"A teenager buys expensive art supplies, but never creates any artwork",1,gpt-3.5-turbo-16k,1
+6U1KP4,An electrician fixed the same wire again and again,1,gpt-4-0613,1
+6X08YU,"The bridge, once sturdy, now sways in the breeze",2,gpt-4-0613,1
+6X18JT,The neighbor walked his cat where he normally walked his dog,2,gpt-4-1106-preview,1
+6XO8Y9,A beach towel covers a car windshield,0,gpt-4-1106-preview,1
+6ZB0I7,A chef carries a potted plant through the restaurant,1,gpt-4-0314,1
+704RMO,A woman set two plates at the dinner table every night but ate alone,1,gpt-4-0613,1
+70AMO9,The bell signaling the start of school did not ring at the usual time,2,gpt-4-0613,1
+71OQ9W,A tree branch was in the oven,0,gpt-4-0314,1
+72BO0U,An email remains unread in the inbox marked with priority,2,gpt-4,1
+73XTJ2,A freesbee sits in the bathroom,0,gpt-4-0314,1
+74XPY1,A basketball player who always made the most shots suddenly missing every basket,1,gpt-4,1
+761FWA,A microwave oven is in the backseat of a convertible car,0,gpt-4-1106-preview,1
+76WYS1,A coffee mug is bolted to the ceiling,0,gpt-4,1
+785ZKU,A restaurant owner was observed opening his establishment every day only for an hour,1,gpt-4,1
+78P0GT,"An old man visited the cemetery every day, carrying an unopened bottle of wine",1,gpt-4-0613,1
+78Q9BG,The lifeguard sat facing away from the pool.,1,gpt-4-1106-preview,1
+7A5YP0,A washing machine is in the middle of a park,0,gpt-4,1
+7FSJ13,A pair of boots dangled from a ceiling fan,0,gpt-4-0314,1
+7JXP09,"A man meticulously maintains his garden, but never allows anyone to enter it",1,gpt-3.5-turbo-16k,1
+7K9DR0,"Sarah's car, usually parked perfectly, is now skewed",2,gpt-4,1
+7KM60S,A laptop is sitting in a bird's nest,0,gpt-3.5-turbo-16k,1
+7O98FU,A hairbrush is lying on a bed of flowers,0,gpt-3.5-turbo-16k,1
+7R4Q5B,The quiet old man at the corner house now blasts classical music every evening,2,gpt-4,1
+7WD2G0,A toothbrush is on the roof of a house,0,gpt-4,1
+809PGQ,A collection of unopened mail is piled inside a laundry basket,0,gpt-4-0314,1
+81MUX2,A bicycle rested on top of the dining table,0,gpt-4-0314,1
+83SP7F,The television set that showed colors suddenly turned black and white,2,gpt-4-0613,1
+86DYN1,The photographer took photos in complete darkness,1,gpt-4-1106-preview,1
+86Z2UM,Ping pong balls are seen nestled in a bird's nest,0,gpt-4,1
+875VTB,"A bakery, known for its aroma of fresh bread, was silent and free of any smell",2,gpt-4,1
+8G23JT,A sweetpotato rests on the front doorstep,0,gpt-4-0314,1
+8J6SQ4,The lone tree in the park started to bear yellow apples,2,gpt-4-0613,1
+8KCO13,A gym-goer only stretches in the corner for hours,1,gpt-4-0314,1
+8KY0D1,A woman walks into a library and shushes everyone without cause,1,gpt-4-0314,1
+8LN0P4,The regular chirping of a bird at dawn was replaced by an unexpected stillness.,2,gpt-4-1106-preview,1
+8MCI42,A car stopped suddenly in the middle of the road,2,gpt-4-0314,1
+8NY42P,A camera was hanging from a shower curtain rod,0,gpt-3.5-turbo-16k,1
+8S45MP,The snow that usually covered Mount Monroe has completely disappeared,2,gpt-4,1
+8SL1X9,A paperclip is floating in a bowl of soup,0,gpt-3.5-turbo-16k,1
+90T4BW,"A musician, once able to play without sheet music, now strains to read the notes on the stand",2,gpt-4-0613,1
+90ZVS8,A teapot is on the conveyor belt at a hardware store,0,gpt-4-1106-preview,1
+94B5GI,A man arrives home with mud-covered shoes,1,gpt-3.5-turbo-16k,1
+951GST,A lawyer stares at a parking meter for several minutes without putting any coins in,1,gpt-4-0314,1
+96PM7Z,Gloves were found in the cookie jar,0,gpt-4-0314,1
+9A06BO,"A teenager stands outside a bank, timing the entrance and exit of its customers",1,gpt-4-0314,1
+9A83KV,The dusty hiking trail was now paved and clean,2,gpt-4-0613,1
+9B1VI8,A woman who always wore skirts was in trousers,2,gpt-4-0613,1
+9C53GQ,The pianist played the same note repeatedly throughout the concert,1,gpt-4-1106-preview,1
+9C5YR6,"Despite having a car, a woman was seen cycling to work every day",1,gpt-4,1
+9D7JE8,A hairdryer is positioned next to the oven,0,gpt-4-0314,1
+9J8BU0,"An athlete stopped in the middle of a marathon, sat on the curb and watched the other racers",1,gpt-4-0613,1
+9JE20Q,A bird left the nest it was building,2,gpt-4-0314,1
+9M38NB,"A bakery, usually closed on Sundays, had a line of customers outside",2,gpt-4,1
+9QPH67,A driver didn't get out of his car after parking it,1,gpt-4-0613,1
+9TL24D,A stack of books is in the washing machine,0,gpt-4,1
+9TV61N,A vacuum cleaner occupied a parking space outside,0,gpt-4-0314,1
+9W06KS,An artist's easel held a blank canvas for a week,2,gpt-4-0613,1
+9X4ZS7,A birdwatcher scares the birds away with his sudden movements,1,gpt-4-0613,1
+A12K0U,A laptop teetered on the edge of a washing machine,0,gpt-4-0314,1
+A2G6M5,A suitcase is open on the living room floor,0,gpt-4-0314,1
+A38TH6,A feather duster perches atop a computer monitor,0,gpt-4,1
+A51N0F,The pilot landed the plane at a different airport,1,gpt-4-1106-preview,1
+A64B9Q,A man walks into a library and starts stacking books in the corner,1,gpt-4-0314,1
+A74M6B,An umbrella is propped open on a bed,0,gpt-4-0314,1
+A862IQ,A gentleman hands his umbrella to a stranger and continues to walk basking in the rain,1,gpt-4-0314,1
+A8R16B,"An express train was stopped at a small, rarely used station.",2,gpt-4-1106-preview,1
+A8ZV34,A politician takes notes during casual conversations at a party,1,gpt-4-0314,1
+A9G05S,"The cat, previously aloof, now seeks affection",2,gpt-4-0613,1
+AB90M7,A wristwatch started making loud rubbing noises,2,gpt-4-0314,1
+AE27L1,"The athlete, once swift and nimble, now slows his pace",2,gpt-4-0613,1
+AJE918,A set of measuring spoons dangles from a showerhead.,0,gpt-4-0314,1
+AP14U5,A zookeeper reading a bedtime story to the giraffes,1,gpt-4,1
+AQ4P90,A skateboard is propped up in a grocery cart,0,gpt-4-1106-preview,1
+AQ6T74,"The artist, always brimming with ideas, now stares blankly at his canvas",2,gpt-4-0613,1
+AW95N6,A teammate never celebrates after scoring a goal,1,gpt-3.5-turbo-16k,1
+AZ64S7,A mechanic uses a hammer to fix cars,1,gpt-4-0613,1
+B0U9D5,"A classmate frequently doodles during lectures, but still gets top grades",1,gpt-3.5-turbo-16k,1
+B3K5S1,A woman was spotted walking her dog at three in the morning,1,gpt-4,1
+B487DY,A kid was throwing stones to apples hanging on trees in the park,1,gpt-4,1
+B5N1T7,A mug is on the bookshelf,0,gpt-4,1
+B754JD,A can opener is sitting on a basketball court,0,gpt-3.5-turbo-16k,1
+B8Z30C,A teacher collects homework but doesn't check if the student's name is on it,1,gpt-4-0314,1
+B9E1T6,"The toddler next door, normally noisy, is strangely silent today",2,gpt-4,1
+BA07S1,"A man often goes for long walks, but never takes the same route twice",1,gpt-3.5-turbo-16k,1
+BC4D37,The train left the station earlier than scheduled,2,gpt-4-0314,1
+BL210X,A door in the house suddenly slammed shut,2,gpt-4-0314,1
+BM2E16,A frying pan lay upside down on the bedroom floor,0,gpt-4-0314,1
+BP276J,A book was missing from the dusty bookshelf,2,gpt-4-0613,1
+BQU460,An ironing board leans against a barbecue grill,0,gpt-4,1
+BVQ258,A keyboard is floating in a bathtub,0,gpt-3.5-turbo-16k,1
+BWG813,A movie director hums soundtracks while shooting scenes.,1,gpt-4-0613,1
+BY746U,The parking ticket was in the cereal box,0,gpt-4-0314,1
+C038EJ,A student handed back his full scholarship without giving any reason,1,gpt-4-0613,1
+C18LE4,A teacher walks into a classroom with a motorcycle helmet,1,gpt-4-0314,1
+C381HE,A golf club is in the bathroom,0,gpt-4,1
+C3N0E8,The mailman's bag seems lighter today,2,gpt-4-0613,1
+C56B7S,A set of car keys dangles from a tree branch,0,gpt-4-0314,1
+C690IV,A house that was always tidy was in disarray,2,gpt-4-0613,1
+C72Z6O,A woman opened her umbrella indoors,1,gpt-4,1
+C835VX,A table lamp is hanging from a tree branch,0,gpt-4,1
+C86ZF5,The fan suddenly stopped spinning,2,gpt-4-0314,1
+C8U3G5,A park usually filled with children was empty,2,gpt-4-0613,1
+CE9W03,The dog who barks at anyone passing by is oddly calm today,2,gpt-4,1
+CG481Z,The barista filled the cup only halfway with coffee,1,gpt-4-1106-preview,1
+CJ35I4,"A child collects rocks from the beach, but throws them away as soon as he gets home",1,gpt-3.5-turbo-16k,1
+CK807A,A woman brings her own chair to a movie theater despite plenty of available seating,1,gpt-4-0314,1
+D04EV7,A refrigerator magnet is attached to a car door,0,gpt-4-0314,1
+D0G24J,A canary in the cage had fallen silent,2,gpt-4,1
+D58YA2,A piano that used to play melodies was stuck on one note,2,gpt-4-0613,1
+D5P2G4,An older gentleman insists on carrying an empty purse wherever he goes,1,gpt-4-0314,1
+D7T12U,"A stylist, seen choosing polka dots for every outfit",1,gpt-4,1
+D975LJ,A pile of books occupies the bathroom shelf,0,gpt-4,1
+DA960E,A cyclist pedaled only backwards in a heavy traffic,1,gpt-4-0613,1
+DEO843,A librarian whispers to herself while organizing the books,1,gpt-4-0613,1
+DW03S6,A student spends lunch breaks alone in the library,1,gpt-4-0314,1
+DW3B60,"A classmate always arrives late to class, but never seems bothered by it",1,gpt-3.5-turbo-16k,1
+E23H1M,A dog circles a tree repeatedly without stopping,1,gpt-4-0314,1
+E4DN36,A huge kite soared high in the sky,2,gpt-4-0314,1
+E4R1T7,A rolling pin is placed beside gym weights,0,gpt-4-1106-preview,1
+E6K45O,A chef shakes hands with every single person before starting to cook,1,gpt-4-0613,1
+E6Q39V,The security guard left the gate unlocked during his shift,1,gpt-4-1106-preview,1
+E9HD32,A gluestick sits on a tree branch,0,gpt-4,1
+EH27V6,A remote control is sitting on a billiard table,0,gpt-3.5-turbo-16k,1
+F178AQ,A set of car keys is frozen inside an ice cube tray,0,gpt-4-1106-preview,1
+F295UN,A tree in the park has lost all its leaves over a single night,2,gpt-4,1
+F54M8C,A dog trainer was seen using a cat whistle,1,gpt-4,1
+F87B6D,A computer mouse rests in a flower pot,0,gpt-4-0314,1
+FG96P3,A sack of potatoes is sitting on a computer chair,0,gpt-4,1
+FQD849,A cashier counts the change given to a customer multiple times,1,gpt-4-0314,1
+FX036K,A laptop is lying on the grass roof of a hut,0,gpt-4-1106-preview,1
+FXN409,"The postman makes his rounds by bike, but today a postal van stopped at each mailbox",2,gpt-4-1106-preview,1
+G1V7M0,A teacher erased the blackboard before anyone could take notes,1,gpt-4-0613,1
+G45LN6,A hairdryer is on the kitchen countertop,0,gpt-4,1
+G45X2V,A policeman patrolling the same street corner every single hour,1,gpt-4,1
+G7Q24H,A portable speaker is tucked into the microwave,0,gpt-4-0314,1
+GJ8T24,A fork was found in the pencil holder,0,gpt-4-0314,1
+GS0V69,A person uses their clothes to wipe down surfaces at a cafe,1,gpt-4-0314,1
+GS89Q1,A laundry basket is on top of a refrigerator,0,gpt-3.5-turbo-16k,1
+GU405M,"A pilot walks around the airplane, tapping randomly on the exterior",1,gpt-4-0314,1
+GU6J30,"The book, always smooth, now opens with a stuttering creak",2,gpt-4-0613,1
+H2I1U0,"A roommate never washes their dishes, but always cleans the common areas",1,gpt-3.5-turbo-16k,1
+H3N0C6,"A clock, which always made a ticking sound, now has no noise",2,gpt-4-0613,1
+H4D5P1,The plants in the garden withered and turned brown overnight,2,gpt-4-0314,1
+H6B0I2,A chef drops a dish on the floor and simply walks away,1,gpt-4-0314,1
+HF354K,A boy started bringing an umbrella to school even during sunny days,1,gpt-4,1
+HMT310,"A teammate always arrives early to practice, but never seems prepared.",1,gpt-3.5-turbo-16k,1
+HT3E49,A chef was seen fishing in his restaurant's aquarium,1,gpt-4,1
+I0AD97,A businessman wore two different shoes to the meeting.,1,gpt-4-0613,1
+I40Z6O,The church bell rang at midnight instead of noon,2,gpt-4,1
+IC71D9,"A woman practices a foreign language, but refuses to speak it in public",1,gpt-3.5-turbo-16k,1
+IH41V6,A pair of sunglasses are in the freezer,0,gpt-4,1
+J06KN1,The hairdryer was in the shoe rack,0,gpt-3.5-turbo-16k,1
+J1N40V,A lawyer flips through a comic book during recess at court,1,gpt-4-0314,1
+J270ZH,The boisterous marketplace was eerily silent,2,gpt-4-0613,1
+J2Q49P,A child at the playground was burying his new toy car in the sand pit,1,gpt-4,1
+J32AI4,A dining chair is on top of the car,0,gpt-4,1
+J59N8K,The clock tower had chimed every hour on the hour until today's unexpected silence,2,gpt-4-1106-preview,1
+J6M14X,A scarf was draped over the bicycle handlebars,0,gpt-3.5-turbo-16k,1
+J95XO1,A stapler is sitting on a windowsill,0,gpt-3.5-turbo-16k,1
+J9HG75,A woman was seen drawing all over public sidewalks with a chalk,1,gpt-4,1
+J9RX26,"An athlete checks their shoe size, then tries on smaller shoes",1,gpt-4-0314,1
+JBQ013,A teapot is hanging from the clothesline,0,gpt-4,1
+JC582Y,A pair of slippers is arranged on a kitchen shelf,0,gpt-4-0314,1
+JHT476,The teacher erased the board halfway through the lesson,1,gpt-4-1106-preview,1
+JK64O1,An actor known for playing villains was cast as the hero,2,gpt-4-0613,1
+JKG764,"The lake, usually filled with ducks, is strangely empty",2,gpt-4,1
+JL17N2,"The mirror, which was once complete, is now broken into pieces",2,gpt-4-0613,1
+K1N5R3,The tailor measured the sleeve length incorrectly on purpose,1,gpt-4-1106-preview,1
+K1Z49V,An umbrella is open in a shower stall.,0,gpt-4-1106-preview,1
+K3H5C1,A child whispers furiously into a seashell at the beach,1,gpt-4-0314,1
+K45HF6,A dish sponge is tucked between the pages of a book,0,gpt-4,1
+K4RG39,"The boisterous child, previously filled with energy, now lounges in quiet repose",2,gpt-4-0613,1
+K82Y3I,A cell phone's battery drained at an alarming rate,2,gpt-4-0314,1
+K9UV75,"The swing set in the park, usually squeaky, moved noiselessly in the wind",2,gpt-4-1106-preview,1
+KJ72X6,A babysitter watches TV instead of the children they're supposed to be watching,1,gpt-4-0314,1
+KN04Q3,A book lays open on the sandbox,0,gpt-4-0314,1
+KQ93I2,"The room, previously cluttered, presents a pristine and orderly vista",2,gpt-4-0613,1
+KQL109,A newspaper is spread out under a sleeping cat,0,gpt-4-0314,1
+KQY594,A fast-food worker adds extra fries to only some orders,1,gpt-4-0613,1
+KW31R8,A barista intentionally misspelled names on cups,1,gpt-4-0613,1
+KY826H,"A child stocks up on supplies for a camping trip, but never goes camping",1,gpt-3.5-turbo-16k,1
+L20V4J,"A tree, once lush and verdant, stands bare and skeletal",2,gpt-4-0613,1
+L3HS49,A woman walked alone where she usually strolled with a friend,2,gpt-4,1
+L548VA,A cell phone floated in the birdbath,0,gpt-4-0314,1
+LD469P,Shoes were arranged on the dining table,0,gpt-4-0314,1
+LF0B48,The mechanic returned the car with an empty gas tank,1,gpt-4-1106-preview,1
+LH30X1,A cat ordinarily quick on its feet was walking slowly,2,gpt-4-0613,1
+LWM853,A child's voice began to crack as he spoke,2,gpt-4-0314,1
+M3R57D,The automatic doors at the grocery store didn't slide open as customers approached,2,gpt-4-1106-preview,1
+MF2Z90,"A cat normally paced around the porch, but it was sitting still",2,gpt-4-0613,1
+MR53Y2,The vacant house on Elm street now had a welcome mat at the doorstep,2,gpt-4,1
+MW286U,A man started painting the walls of his house at midnight,1,gpt-4,1
+MW7O60,An old lady began digging a hole in the middle of a public lawn,1,gpt-4,1
+MY4S95,An old oak tree suddenly fell without warning,2,gpt-4-0314,1
+N0T7F9,A pair of socks is found in the microwave,0,gpt-4,1
+N1AX07,A keychain was dangling from a ceiling fan,0,gpt-3.5-turbo-16k,1
+N2YW40,A woman consistently refuses to look at any mirrors in a store,1,gpt-4-0314,1
+N4J68Q,A tennis racket is lying on a desk in the office,0,gpt-4,1
+N580QE,The streetlights turned off an hour before dawn,2,gpt-4-1106-preview,1
+N6KP14,A toilet plunger appeared on an office desk,0,gpt-4-0314,1
+N90Z7C,"The town's church bell, silent for years, tolled again",2,gpt-4,1
+NK874Q,A cup of coffee remained untouched for hours,2,gpt-4,1
+NU862Z,A gardener was watering his plants in the rain,1,gpt-4-0613,1
+NZ5L49,A woman returns the same book to the library three times in a week,1,gpt-4-0314,1
+O5P7K4,The library's book return bin overflowed with books,2,gpt-4,1
+O5UJ32,The traffic light skipped its usual pattern,2,gpt-4-0314,1
+O67MB8,An office chair is in the shallow end of a pond,0,gpt-4-1106-preview,1
+OJ97R5,"The teacher's desk, typically cluttered with papers and books, was cleared off",2,gpt-4-1106-preview,1
+OQ2A01,A pharmacist always cross-checks prescriptions by calling the doctors,1,gpt-4-0613,1
+P31F5O,A fire extinguisher is mounted on a baby crib,0,gpt-4-1106-preview,1
+P36O0A,A teammate always wears mismatched socks,1,gpt-3.5-turbo-16k,1
+P41M2N,An artist sketches a picture but never looks at the subject they're drawing,1,gpt-4-0314,1
+P4U87L,The car key was dangling from the refrigerator door,0,gpt-4-0314,1
+P64V2M,A yoga mat is draped over a park bench,0,gpt-4-1106-preview,1
+P87J9S,An umbrella was hanging on the treadmill,0,gpt-4-0314,1
+P902UR,A woman claps in the middle of a funeral service while everyone remains silent,1,gpt-4-0314,1
+PAJ432,Work boots stand on the shelves of a bakery,0,gpt-4-1106-preview,1
+PG98H6,"A woman buys a bouquet of flowers, but leaves them unattended on the kitchen counter",1,gpt-3.5-turbo-16k,1
+PS091M,"A chef, known for his elaborate presentations, served a dish that was visually simple",1,gpt-4,1
+PVI082,A keyboard is discarded in the school fountain,0,gpt-4,1
+Q082ON,The jogger ran the opposite direction on the track,1,gpt-4-1106-preview,1
+Q094UX,A rubber duck sat on the printer,0,gpt-4-0314,1
+Q25DU1,The waiter served the appetizer after the dessert,1,gpt-4-1106-preview,1
+Q2P17Z,A girl was seen eating lunch inside a closet at school,1,gpt-4,1
+Q3F75E,A farmer plants flowers amongst his crops,1,gpt-4-0314,1
+Q3Z7C4,A stethoscope winds around a television,0,gpt-4,1
+Q52UB0,A boy kept his school bag in the refrigerator,1,gpt-4,1
+Q5RT80,A tube of toothpaste hides in a cereal box,0,gpt-4-0314,1
+QB65E8,"In the place of wheat, sunflowers grew in the fields",2,gpt-4,1
+QY176E,A boss often makes promises but never follows through,1,gpt-3.5-turbo-16k,1
+R082UB,The park that was usually filled with litter is now spotless and clean,2,gpt-4,1
+R157QJ,A car shiny and clean was covered in mud,2,gpt-4-0613,1
+R1MP79,A colleague always keeps their office door closed,1,gpt-3.5-turbo-16k,1
+R52W1O,A young woman uses her hands to eat soup at a fancy restaurant,1,gpt-4-0314,1
+RBY620,"The river, consistently blue, now churns with brown silt",2,gpt-4-0613,1
+RF8S47,A bicycle leans against the living room wall,0,gpt-4-0314,1
+RG25W1,"A teenager spends hours in front of a mirror, but never applies any makeup",1,gpt-3.5-turbo-16k,1
+RJ09T4,A vacuum cleaner stands in the middle of a children's playground,0,gpt-4-1106-preview,1
+RPX370,A boss frequently asks for feedback but never implements any changes,1,gpt-3.5-turbo-16k,1
+RU108Y,"A friend always asks for advice, but never takes it",1,gpt-3.5-turbo-16k,1
+RY701F,The fisherman cast his net on the shore itself,1,gpt-4-1106-preview,1
+S09EC4,"A woman meticulously arranges her books on the shelf, but seems to forget their titles when asked",1,gpt-3.5-turbo-16k,1
+S0F3M5,The cat who always took a nap on the porch is suddenly awake at night,2,gpt-4,1
+S6B7F4,The cashier gave change without counting it,1,gpt-4-1106-preview,1
+S7EF35,"A man adopts multiple pets, but never lets them out of their cages",1,gpt-3.5-turbo-16k,1
+S81M7Z,"A dog in neighborhood, no collar before, now spotted with one",2,gpt-4,1
+S9B82H,A musician recorded the sounds of the city instead of playing his guitar,1,gpt-4-0613,1
+SA0I79,A classmate consistently talks to others during exams,1,gpt-3.5-turbo-16k,1
+SU29Q5,A child is seen drawing on the wall with crayons,1,gpt-4-0613,1
+SW7Z54,"The man, previously lean, boasts a bulkier form",2,gpt-4-0613,1
+T04K3S,"The florist's display, always brimming with color, featured only shades of white today.",2,gpt-4-0314,1
+T1KD95,The keys were in the fish tank,0,gpt-3.5-turbo-16k,1
+T7P43G,A user continued refreshing the same webpage every five minutes,1,gpt-4-0613,1
+T9DX71,A doctor wears a clown hat while examining patients,1,gpt-4-0613,1
+T9V4N1,A man walked into a bar at 9 am in the morning wearing pajamas,1,gpt-4,1
+TJA401,An alarm clock is discovered inside a lunchbox,0,gpt-4,1
+TQ510P,A runner halted abruptly in the middle of the track,2,gpt-4-0613,1
+U4CP92,"The gym, open 24/7, had its doors locked and lights off during peak hours",2,gpt-4-1106-preview,1
+U82A7D,The automatic doors didn't open when approached,2,gpt-4-0314,1
+U9IJ14,The city's iconic stone statue had a fresh coat of paint,2,gpt-4,1
+UC76V3,The newspaper was scattered on the roof,0,gpt-3.5-turbo-16k,1
+UD874E,An employee who was always tardy arrived early,2,gpt-4-0613,1
+UJ302N,A shovel is in the wardrobe,0,gpt-4,1
+UK07N3,A blender is balanced on a stack of books,0,gpt-4-0314,1
+UNJ056,A phone that incessantly rang was silent,2,gpt-4-0613,1
+UO017V,The tree that always bloomed first in spring remained barren,2,gpt-4-1106-preview,1
+UP521T,The ice cream melted in the freezer,2,gpt-4-0314,1
+UP60T1,An alarm clock rang with an unexpectedly loud sound,2,gpt-4-0314,1
+UR5Q13,The endless desert suddenly had a streak of color - a line of blooming flowers.,2,gpt-4,1
+US280G,A man started knitting a sweater in the middle of a business meeting,1,gpt-4,1
+V0ST41,"There are a lot of people in the pool, but the lifeguard seat is vacant",2,gpt-4-0613,1
+V1K72N,Every mailbox on the street suddenly bore a red flag,2,gpt-4,1
+V1Y5L4,The living room rug is draped over the dining table,0,gpt-4,1
+V302FX,A hairbrush is stuck in a hedge.,0,gpt-4,1
+V5O48R,A coat hanger clung to the curtain rod,0,gpt-4-0314,1
+V794EP,A bicycle is parked in the pantry,0,gpt-4-0314,1
+VJI316,A toothpaste tube is on top of a mountain,0,gpt-3.5-turbo-16k,1
+VL92J8,A wristwatch is submerged in a jar of pickles,0,gpt-4,1
+VT108R,A book that had always been on the shelf was missing,2,gpt-4-0613,1
+W092PH,A woman was spotted walking her cat on a leash in the city center,1,gpt-4,1
+W24ND5,A car that always stayed in the driveway was missing,2,gpt-4-0613,1
+W2F19R,A bride left the altar during her wedding ceremony,1,gpt-4-0613,1
+W2G6D7,"A teenager always smiles and greets everyone, but never makes eye contact",1,gpt-3.5-turbo-16k,1
+W31S4D,A microwave occupies a parking space,0,gpt-4-1106-preview,1
+W3N4C0,A skateboard leaned against the refrigerator door,0,gpt-4-0314,1
+W40UI3,"A child practices playing an instrument every day, but refuses to perform for anyone",1,gpt-3.5-turbo-16k,1
+W5JV83,"A man has an extensive collection of paintings, but never displays them in his house",1,gpt-3.5-turbo-16k,1
+W6QA39,The garage door opener is in the freezer,0,gpt-4,1
+W9PG40,A pillow lay on a coffeee table,0,gpt-4-0314,1
+WA623O,A taxi driver refuses to drive after sunset,1,gpt-4-0613,1
+WF017B,A hat was balanced on the branch of a tree,0,gpt-3.5-turbo-16k,1
+WF962J,A dog walker was seen taking a parrot for a 'walk' at a local park,1,gpt-4,1
+WL47M2,A man switched from a bike to a scooter,2,gpt-4-0314,1
+WND721,A banker was seen using a calculator for simple arithmetic calculations,1,gpt-4,1
+WT3J70,A once-pristine white shirt developed a large stain,2,gpt-4-0314,1
+WXS089,A dog that enjoyed playing fetch was lying motionless.,2,gpt-4-0613,1
+WY24L6,An office that perpetually buzzed with conversation was quiet,2,gpt-4-0613,1
+X0JI71,A mechanic seen polishing a car that was meant to be junked,1,gpt-4,1
+X3N52F,A field usually filled with flowers was covered in snow,2,gpt-4-0613,1
+X5T7R4,The chef used salt instead of sugar in the cake,1,gpt-4-1106-preview,1
+X64M1T,"A desk in the office, which was always messy, was now surprisingly clean",2,gpt-4,1
+X86ZT7,The bookstore's 'Open' sign flipped to 'Closed' midday on a busy Saturday,2,gpt-4-1106-preview,1
+X906SB,A businessman carries an inflatable flamingo everywhere he goes,1,gpt-4-0314,1
+X94V7E,A bus driver took a different route every day,1,gpt-4-0613,1
+Y5HU24,A microwave was found on the porch,0,gpt-4-0314,1
+Y8R09T,The clock on the city tower had stopped ticking,2,gpt-4-0613,1
+Y910UN,A jogger took a different route than usual,2,gpt-4-0314,1
+Y972BP,An umbrella hangs from the rearview mirror of a car,0,gpt-4,1
+Y982LE,"A vending machine on the third floor, always stocked, displayed an 'Out of Service' sign",2,gpt-4-1106-preview,1
+YD7A93,A cupcake was perched on top of a traffic cone.,0,gpt-3.5-turbo-16k,1
+YK30R7,"The sea, which was usually calm, is now swirling with uncontrolled energy",2,gpt-4-0613,1
+YQ0N29,A bicycle is floating in a swimming pool,0,gpt-3.5-turbo-16k,1
+YR470X,"A plumber looks into an empty toolbox, then leaves a job without fixing anything",1,gpt-4-0314,1
+Z36A8C,Shampoo is on the living room rug,0,gpt-4,1
+Z4L9V7,A salesman waters the parking lot outside his car dealership,1,gpt-4-0314,1
+Z6AB24,A dinner plate is on the bathroom floor,0,gpt-4,1
+Z930DU,A banana peel sits atop a grand piano,0,gpt-4,1
+ZB86Q0,A mail carrier lingers in front of an empty house,1,gpt-4-0314,1
+ZL780I,A golf ball is found in a flower pot,0,gpt-4,1
+ZM0K29,"A man visits multiple cashiers at the same store, buying just one item each time",1,gpt-4-0314,1
+ZUV567,A watering can is placed on the bed,0,gpt-4,1

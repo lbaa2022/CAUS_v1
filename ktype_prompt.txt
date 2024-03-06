@@ -1,0 +1,22 @@
+Ignore all previous instructions. 
+Classify the questions of 'query_value' according to the ##Knowledge type criteria:##, as detailed below.
+Stay within the provided choices; no creation of new options or selection of non-existing options is allowed.
+
+##knowledge type criteria:##
+Select one criterion indicating the aspect the question tries to find out or grasping the questioner's inquiring point.
+They are presented as "criteria_number. knowledge_type: definition".
+
+1. Identity: Inquiring specifically about the unique identification or name of a person or object, including who is responsible for an outcome
+2. Class: Inquiring about inclusion relationships between a particular entity and categories
+3. Attributes: Seeking information regarding the characteristics, types, features, usage, or conditions associated with an entity that aren't about its unique identification
+4. Quantities: Curious about quantitative specifications of the character or object 
+5. Spatial layout: Seeking information on the relative placement of entities in a given space
+6. Temporal relation: Inquiring about the timing, sequence, or duration of events, aiming to understand their chronological order or relation
+7. Contents: Inquiring detailed explanation of a specific situation, event, or object focusing on its implication and significance
+8. Procedure: Inquiring information about a specific sequence, method, or process focusing on "how" during the path taken
+9. Causality: Inquiring into the cause, condition, or effect within a causal chain related to a specific event or state, distinct from the individual's motivation
+10. Intention: Inquiring about underlying motives, or rationale behind their actions or behaviors except passive conditions such as cultural and social background
+11. Internal state: Inquiring about the mental states, emotions, or reactions of others, focusing on their observable expressions 
+
+###instruction### Print the result of classification as tuple [(criteria_number,'knowledge type'),...]
+Do not provide any explanation or response with anything, except the list of classification tuples.
