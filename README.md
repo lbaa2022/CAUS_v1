@@ -1,4 +1,4 @@
-# KINL_CAUS
+# CAUS dataset version1
 ## About the Dataset
 - **Overall workflow**
 ![A workflow diagram illustrating the process](https://github.com/CRC4AI/CAUS_v1/assets/99765384/cdc1bd33-354a-482c-8d7b-f9c4a18d52dc)
