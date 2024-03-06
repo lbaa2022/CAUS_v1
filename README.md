@@ -71,26 +71,26 @@ ___
 ### CAUS_Scene.ipynb  
 - Code for generating scenes 
 - Workflow
-    - 클래스당 25개 장면, 총 75개 장면을 생성시킴  
-    - 클래스 id 와 random scene id 부여된 df 생성  
-    - csv 로 저장 (curation 필요하기 때문에 사람이 작업하기 편한 csv형태로 저장함)
-    - `_inspection\sentence_similarity_check.ipynb` 로 기존 문자들과 중복 검사
+    - Generates 25 scenes per class, totaling 75 scenes
+    - Creates a dataframe (df) with class ID and random scene ID
+    - Saves as CSV (CSV format is chosen for human curation)
+    - Checks for duplicate sentences with `_inspection\sentence_similarity_check.ipynb`
 
 ### 5qCAUS_result.ipynb
 - reasoning + 5 queries 생성
 - Workflow
-  - 사람이 curation 한 scene 목록 csv file을 호출  
-  - GPT 모델 활용 result (reasoning + 5 queries) 생성 
-  - json 형식의 intermediate 파일 저장
+  - Loads a CSV file containing human-curated scene lists  
+  - Uses a GPT model to generate results (reasoning + 5 queries)
+  - Saves intermediate files in JSON format
 
 ### 5qCAUS_KCQ_short.ipynb 
 - 3-dimentional clssification of questions
 - Workflow
-  - intermediate 파일을 호출
-  - GPT 모델에 분류 기준을 기술한 prompt 적용하여 질문 타입 분류
-  - K type, C type, Q type 순서로 분류 결과 생성
-  - 최종 결과물을 dictionary 형태로 정리
-  - json, csv 파일로 저장
+  - Loads intermediate files
+  - Applies a prompt describing classification criteria to the GPT model for question type classification
+  - Generates classification results in the order of K type, C type, Q type
+  - Organizes final results in dictionary format
+  - Saves as JSON and CSV files
   
 ___
 ## About Prompts
