@@ -65,6 +65,8 @@
 
 ### Notice  
 - Developed using Python version 3.11.2.
+- Please note that this code does not reflect the latest updates from the OpenAI and Langchain libraries. For the latest versions, please check each provider's websites.
+
 
 ___
 ## About Codes   
