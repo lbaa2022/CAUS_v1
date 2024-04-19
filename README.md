@@ -66,6 +66,8 @@
 ### Notice  
 - Developed using Python version 3.11.2.
 - Please note that this code does not reflect the latest updates from the OpenAI and Langchain libraries. For the latest versions, please check each provider's websites.
+- This work would be presented at CogSci2024 conference in July 2024.
+- For more detailed information, see our paper on arXiv: [CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models](https://arxiv.org/abs/2404.11835)
 
 
 ___
