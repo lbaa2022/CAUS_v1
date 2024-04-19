@@ -1,4 +1,11 @@
-# CAUS dataset version1
+# CAUS dataset ver1
+
+### Notice  
+- Developed using Python version 3.11.2.
+- Please note that this code does not reflect the latest updates from the OpenAI and Langchain libraries. For the latest versions, please check each provider's websites.
+- This work would be presented at CogSci2024 conference in July 2024.
+- For more detailed information, see our paper on arXiv: [CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models](https://arxiv.org/abs/2404.11835)
+
 ## About the Dataset
 - **Overall workflow**
 ![A workflow diagram illustrating the process](https://github.com/CRC4AI/CAUS_v1/assets/99765384/cdc1bd33-354a-482c-8d7b-f9c4a18d52dc)
@@ -62,12 +69,6 @@
             }
         ]
     },
-
-### Notice  
-- Developed using Python version 3.11.2.
-- Please note that this code does not reflect the latest updates from the OpenAI and Langchain libraries. For the latest versions, please check each provider's websites.
-- This work would be presented at CogSci2024 conference in July 2024.
-- For more detailed information, see our paper on arXiv: [CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models](https://arxiv.org/abs/2404.11835)
 
 
 ___
