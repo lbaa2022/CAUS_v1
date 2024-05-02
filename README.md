@@ -82,7 +82,7 @@ ___
     - Checks for duplicate sentences with `_inspection\sentence_similarity_check.ipynb`
 
 ### 5qCAUS_result.ipynb
-- reasoning + 5 queries 생성
+- Generating 1 reasoning and 5 queries
 - Workflow
   - Loads a CSV file containing human-curated scene lists  
   - Uses a GPT model to generate results (reasoning + 5 queries)
